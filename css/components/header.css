@@ -1,0 +1,19 @@
+
+.header__nav{
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__button{
+  background-color: #FFEA4D;
+  color: black;
+}
+
+.header__content-seguros{
+
+}
+
+.header__section-button{
+
+}
