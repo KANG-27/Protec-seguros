@@ -1,0 +1,576 @@
+{
+    "Protec talento humano": [
+        {
+            "nombre": "Asegura tu talento",
+            "descripcion": "Acompañamos al empresario en la gestión de su talento humano y le damos acceso a servicios que apalancan la productividad de su negocio y el bienestar de sus empleados.",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Salud mental",
+                "Acceso a la línea de atención integral en salud mental",
+                "Modelo de patología mental",
+                "Modelo de apoyo emocional",
+                "Modelo de gestión del duelo",
+                "Ausentismo - incapacidades prolongadas"
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Salud colectiva",
+            "descripcion": "Con un seguro de salud colectivo de Protec Seguros, sus empleados pueden estar tranquilos porque disfrutan ​de atenciones exclusivas en salud, como consultar directamente a un médico especialista sin necesidad de esperar una autorización por parte del médico general, gracias al amplio directorio médico en el que puede escoger al profesional de su preferencia y la institución en la que quiere ser atendido él o su grupo familiar. Contar con un plan colectivo de salud garantiza el pago de una tarifa estable a lo largo de la vida laboral de sus empleados sin altos incrementos en el valor de la prima. Si ellos cuentan con una póliza de salud o Medicina Prepagada en otra compañía, conservamos su antigüedad para que pueda disfrutar de los beneficios de la póliza de salud de Protec Seguros.​",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Donación de órganos.",
+                "Tener la posibilidad de escoger el profesional de su preferencia.",
+                "Extender la protección a su grupo familiar",
+                "Pagar una tarifa estable a lo largo de la vida laboral.",
+                "Habitación individual en hospitalización.",
+                "Elección de clínica para ser atendido.",
+                "Elección del especialista de preferencia.",
+                "Acceso directo a especialistas.",
+                "Acceso ilimitado a la unidad de cuidados intensivos.",
+                "Gastos hospitalarios.",
+                "Gastos de prótesis en caso de necesitarlas.",
+                "Acceso ilimitado a hospitalizaciones psiquiátricas.",
+                "Enfermera exclusiva en casa, luego de cirugías u hospitalizaciones.",
+                "Tratamiento ambulatorio por cáncer o leucemia.",
+                "Hemodiálisis y diálisis peritoneal.",
+                "Acceso ilimitado a exámenes de diagnóstico.",
+                "Plan de atención médica hospitalaria en casa.",
+                "Terapias para recuperación de accidente o cirugía.",
+                "Uso permanente de laboratorios clínicos.",
+                "Cirugía ambulatoria y tratamiento de fracturas, luxaciones y esguinces."
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Hogar colectiva",
+            "descripcion": "¿Qué hacer si la casa o el apartamento de uno de sus empleados se incendia y este, junto con su familia, no cuenta con recursos para recuperar su patrimonio? ¿Cómo su empresa puede apoyarlo en pro de su tranquilidad? Una situación así puede presentarse y su organización debe estar preparada. Los riesgos a los que se exponen sus trabajadores no solo ponen en juego el bienestar de ellos y sus seres queridos, sino también el de su empresa. Con el Seguro C​olectivo de H​ogar, sus empleados protegen sus viviendas y contenidos, es decir su patrimonio, a la vez que su negocio garantiza mayor productividad y alto rendimiento de parte de ellos.​ Ofrézcales calidad de vida a sus empleados con el acompañamiento incondicional de Protec Seguros. ¡Permítanos asesorarlo!",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Incendio",
+                "Explosión",
+                "Humo",
+                "Granizo",
+                "Actos de autoridad",
+                "Inundación y avalanchas.",
+                "Deslizamientos, derrumbes o desprendimiento de tierra y roca.",
+                "Afectaciones causadas por agua en el interior de la vivienda.",
+                "Caída de aeronaves u objetos que caigan de ellas.",
+                "Huracán, ciclón, tifón, tornado o vientos fuertes.",
+                "Impacto de vehículos u objetos terrestres.",
+                "Caída de rayo en el lugar asegurado."
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro colectivo de Vida (Vida Grupo)",
+            "descripcion": "Uno de sus mayores intereses como empresario es desarrollar acciones que le permitan elevar y mantener la calidad de vida de su recurso humano y su grupo familiar. Con el Seguro Colectivo de Vida, se respirará en su empresa un aire social y familiarmente responsable, asimismo, se verá un mejoramiento en el desempeño de sus empleados y en los resultados obtenidos. Este seguro tiene como beneficio para los asegurados un menor costo de la póliza por tratarse de una colectiva y la posibilidad de extenderlo a su grupo familiar, lo que genera en ellos un mayor sentido de pertenencia por la empresa. Tenga en cuenta además, que el respaldo económico que recibirá el empleado y su grupo familiar, minimiza la necesidad de acudir a temas legales con la empresa.  Gracias a que el Seguro de Vida, se convierte en un capital de respaldo inmediato para cubrir eventos inesperados, se disminuyen solicitudes de préstamos y niveles de endeudamiento por parte de sus empleados, contribuyendo a mantener los niveles de productividad y sostenimiento de la empresa. ​",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Contar con un capital de respaldo inmediato para cubrir eventos inesperados",
+                "Tener la posibilidad de extender la protección a su grupo familiar.",
+                "Tener una tarifa estable a lo largo de la vida laboral."
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro Colectivo ​de Vehículos",
+            "descripcion": "Cuando se tiene un vehículo se busca seguridad y protección. Con el Seguro de Autos le ofrecemos un acompañamiento continuo y permanente no solo en caso de accidentes o hurto, sino también en prevención y comodidad para su día a día. Gracias al Seguro de Autos, usted podrá asegurar, en unas condiciones más competitivas, los vehículos de sus empleados y su flota propia, independiente si son de uso particular o utilitario. Le ofrecemos una completa protección a sus vehículos y a los de sus empleados, respaldamos su patrimonio y cubrimos los daños ocasionados por los accidentes ocurridos en estos, tanto los propios como los de los terceros afectados si se tiene responsabilidad en el evento. Da la posibilidad de acceder a tarifas preferenciales y fraccionamiento del seguro en cuotas sin pagar intereses por financiación.​",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Respaldo en caso de causar daños a terceros.",
+                "Asistencia oportuna en el momento de un accidente.",
+                "Pago de una tarifa estable a lo largo de la vida laboral."
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro de Fraude de Empleados",
+            "descripcion": "En Colombia el 70% de los crímenes económicos cometidos contra las empresas, provienen de sus propios empleados. Ante esta situación, Protec Seguros ofrece a las empresas del sector real, industrial la asesoria por medio de una solución que les permite protegerse frente a la posibilidad de pérdidas generadas por este tipo de acciones. En la actualidad existe una amplia ​variedad de comportamientos ilícitos que pueden tipificarse como fraude de empleados, entre ellos encontramos cancelación de cuentas por cobrar, facturas de trabajos no realizados, transferencias bancarias por valores diferentes, entre otros. Algunas de estas circunstancias pueden representar un riesgo para su empresa al perjudicar el desempeño y los resultados de la organización. Con el Seguro de Fraude de Empleados, usted, su empresa y su patrimonio estarán seguros. ",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Su patrimonio en caso de hurto, falsedad, estafa o abuso de confianza de sus empleados.",
+                "Pérdidas causadas por trabajadores no identificados.",
+                "Las pérdidas de bienes pertenecientes a terceros. "
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro de Pensión",
+            "descripcion": "Con este seguro adquieres una cultura de planeación financiera y al mismo tiempo aseguras los ingresos que en unos años complementarán tu pensión.​ Queremos garantizarte un capital de respaldo para que tus seres queridos y tú disfruten de calidad de vida en el futuro. Tú defines por cuánto tiempo quieres pagar el Seguro de Pensión y la periodicidad más cómoda: una suma única o a cuotas mensuales de mínimo $10​​​0 000, o de sus equivalentes trimestrales, semestrales o anuales. El ingreso mensual que recibirás en el futuro no pierde v​alor en el tiempo* ​y el riesgo financiero lo asumimos nosotros. Además, eliges por cuánto tiempo prefieres recibir tus desembolsos y si los anticipas a tu pensión o si simplemente esperas a que esta llegue para complementarla.",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Aplazar o adelantar la fecha de inicio de tu período de estudio por un tiempo máximo de un año.​ ",
+                "Ampliar o reducir el periodo de estudio.",
+                "Modificar la periodicidad en la que recibirás el valor del Ingreso adquirido durante el período de estudio. ",
+                "El Seguro de Pensión te ofrece un respaldo efectivo y oportuno a partir del momento en que hayas definido recibir la renta.",
+                "Un mes antes de iniciar los desembolsos les llegará, a tu asesor y a ti, una comunicación de la Compañía invitándote a definir el nombre de la persona que recibirá la renta así como la cuenta bancaria en la que deseas que esta sea consignada.​",
+                "El seguro lo puede recibir otro ser querido que quieras definir como beneficiario, inclusive, puedes definir hasta 5 asegurados en caso de que alguno falte."
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro Previsional de Invalidez y Sobrevivencia",
+            "descripcion": "Las personas se exponen en su cotidianidad a diversos riesgos no relacionados con su actividad laboral o productiva. Un accidente puede causarle a alguien una invalidez y, con ello, la imposibilidad de trabajar y recibir ingresos que aseguren su calidad de vida y la de su familia. En otra situación infortunada, el afectado podría fallecer. En ambos casos, las administradoras de fon​dos de pensiones y cesantías cumplen un​a responsabilidad esencial porque, de acuerdo con la Ley 100 de 1993, deben garantizar el pago de una pensión a la persona que quedó con una invalidez o a los beneficiarios de quien haya muerto. El Seguro Previsional de Invalidez y Sobrevivencia es el apoyo que su AFP necesita para completar el capital que les falta a sus afiliados o beneficiarios para pensionarse y así responder por sus obligaciones según lo determinan las leyes vigentes de Colombia.",
+            "imagen": "img/talento.jpg",
+            "incluye": [
+                "Cumplir con la obligación de garantizar a sus afiliados, o a los beneficiarios de estos, el acceso a una pensión cuando queden con una invalidez o fallezcan.",
+                "Acompañar a las personas afectadas y a sus familias para que su calidad de vida no desmejore.",
+                "Invalidez",
+                "Muerte",
+                "Auxilio funerario",
+                "Incapacidad temporal"
+            ],
+            "no_incluye": [
+                "Cobertura individual personalizada"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/talento-estadistica.png",
+                    "titulo": "Empresas con beneficios retienen 30% más talento",
+                    "texto": "Invertir en bienestar impacta en la productividad y permanencia del equipo."
+                }
+            ]
+        }
+    ],
+    "Protec modelo operrativo": [
+        {
+            "nombre": "Responsabilidad civil",
+            "descripcion": "Toda actividad empresarial implica riesgos que pueden generar daños a terceros, ya sea en personas o propiedades. Nuestro seguro de responsabilidad civil cubre a tu empresa ante reclamaciones por perjuicios derivados de las operaciones comerciales, garantizando protección financiera y asesoría legal en caso de demandas. Ofrecemos opciones personalizadas según el tipo de actividad que realices, desde seguros generales hasta coberturas especializadas en sectores como salud, construcción, manufactura o transporte. Además, nuestras pólizas incluyen responsabilidad civil patronal, contractual y extracontractual, protegiendo a tu negocio ante cualquier eventualidad que pueda afectar su estabilidad económica y reputación.",
+            "imagen": "img/poliza-salud.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad Civil por Daños a Terceros",
+                    "descripcionConjunto": "Algunos riesgos en su empresa se pueden identificar, otros no son tan evidentes y pueden afectar su patrimonio, sobre todo cuando hay terceras personas involucradas. Si los imprevistos se salen de control, el Seguro de Responsabilidad Civil por Daños a Terceros de ​Protec Seguros responde por su tranquilidad.​ Este seguro cubre los gastos de indemnización generados por daños materiales o lesiones personales ocasionados en el ejercicio de su actividad empresarial. De este modo, cuida su tranquilidad y la de su empresa de una manera tangible, protegiéndola si un evento desafortunado la pone en peligro.",
+                    "imagen": "/danio-terceros.webp"
+                },
+                {
+                    "nombreConjunto": "Responsabilidad Civil para Drones",
+                    "descripcionConjunto": "Con nuestro seguro buscamos proteger el patrimonio de nuestros clientes en el caso de que tus drones ocasionen daños materiales o lesiones personales a terceros en su operación. En la actualidad, este tipo de equipos está revolucionando por ejemplo la industria del cine, la agricultura y empresas de monitoreo, entre otras, las cuales vienen teniendo un exponencial crecimiento en la utilización de los drones en su cadena productiva, generando millones tanto en beneficios como en ahorro en costos. Así mismo se ven expuestas a diversos riesgos que pueden afectar su patrimonio.",
+                    "imagen": "/drones.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro ​de Responsabilidad Civil para ​Clínicas y Hospitales​",
+                    "descripcionConjunto": "​Las clínicas y hospitales cumplen una labor esencial en la sociedad: son las responsables de velar por la vida de las personas y de brindarles bienestar. En Protec Seguros somos conscientes de ello, por eso gestionamos sus riesgos con nuestro Seguro de Responsabilidad Civil para Clínicas y ​Hospitales. Con este, su entidad tiene la mejor protección cuando cause algún perjuicio por actos u omisiones en el ejercicio de la actividad médica.​",
+                    "imagen": "/hospitales.webp"
+                },
+                {
+                    "nombreConjunto": "Responsabilidad Civil para Hoteles",
+                    "descripcionConjunto": "La solución de Responsabilidad Civil para Hoteles está diseñada para proteger su patrimonio en aquellos casos en los cuales resulte civilmente responsable. La póliza cuenta con un complemento de coberturas diseñadas a la medida de su actividad y orientadas a los riesgos a los que se enfrenta.",
+                    "imagen": "/hoteles.webp"
+                },
+                {
+                    "nombreConjunto": "Responsabilidad Civil para Talleres",
+                    "descripcionConjunto": "Como propietario de un taller, está expuesto a una serie de riesgos en el momento de reparar los vehículos. ¿Sabía que hechos como este pueden afectar su patrimonio? Por esto, es necesario que proteja su negocio. Con el Seguro de Responsabilidad Civil para Talleres, Protec Seguros lo acompaña si ocurre algún incidente en su establecimiento que afecte a otra persona o a uno de los vehículos que allí se encuentren.​",
+                    "imagen": "/talleres.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad Civil para ​Parqueaderos",
+                    "descripcionConjunto": "Los parqueaderos particulares o ubicados dentro de centros comerciales, hospitales o en cualquier tipo de negocio están expuestos a una serie de riesgos que pueden afectar su patrimonio. Si este es su caso, con Protec Seguros puede estar tranquilo. Con el Seguro de Responsabilidad Civil para Parqueaderos, está protegido en caso de que ocurra algún accidente​ que afecte a uno de los vehículos allí estacionados.​​​",
+                    "imagen": "/parqueadero.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad del Empleador",
+                    "descripcionConjunto": "​¿Capacita a sus empleados regularmente en el manejo de los equipos que usan para cumplir sus tareas?, ¿cuentan ellos con los elementos de protección personal necesarios? Con la afiliación y pago a una ARL, usted traslada una parte de su riesgo. Sin embargo, su patrimonio puede verse comprometido cuando un empleado sufra un accidente laboral por su culpa.​ Le brindamos el acompañamiento económico que requiere para su tranquilidad.",
+                    "imagen": "/responsabilidad-empleador.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad para Directores y Administradores",
+                    "descripcionConjunto": "Dirigir una empresa representa para sus directivos y administradores la aceptación de grandes responsabilidades. Hay posibilidad de que se presenten errores durante la gestión administrativa, lo que puede traer impactos negativos para su compañía. Con el Seguro de Responsabilidad Civil para Directivos y Administradores Protec Seguros, su empresa contará con nuestro respaldo para disminuir los perjuicios que puedan causar decisiones u otras acciones de sus dirigentes.",
+                    "imagen": "/administradores.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad ​Civil Extracontractual Derivada de Cumplimiento​",
+                    "descripcionConjunto": "El papel es el rey cuando se habla de un contrato. ¿Qué pasa si en la ejecución de un contrato se afecta a terceros? El Seguro de Responsabilidad Civil Extracontractual Derivada de Cumplimiento lo respalda cuando una persona sufra lesiones, fallezca o le causen daños materiales a consecuencia de cualquier actividad que su empresa esté ejecutando como parte de un contrato.",
+                    "imagen": "/derivada-cumplimiento-empresas.webp"
+                },
+                {
+                    "nombreConjunto": "Responsabilidad Civil Ambiental​",
+                    "descripcionConjunto": "En el desarrollo de su labor puede ocasionar daños por una contaminación accidental o gradual. Esto no solo pone en riesgo su patrimonio sino también la reputación de su empresa. El Seguro de Responsabilidad Civil Ambiental le brinda protección frente a estos riesgos y obligaciones de indemnización a terceros.",
+                    "imagen": "/ambiental.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad Civil para Profesionales de la Salud​​​​​​​​",
+                    "descripcionConjunto": "Cuando ejerces tu profesión estás obligado a preservar los derechos de tus pacientes. Si los vulneras, los afectados pueden reclamar indemnización. Este seguro busca proteger tu patrimonio ante errores profesionales en el área de la salud.",
+                    "imagen": "/profecional-civil.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Responsabilidad Civil Profesional",
+                    "descripcionConjunto": "Cuando ejerces una profesión eres responsable por los daños que puedan sufrir terceros como consecuencia de errores u omisiones que cometas en la prestación del servicio, sin importar tu área profesional.",
+                    "imagen": "/responsabilidad-civil.webp"
+                }
+            ]
+        },
+        {
+            "nombre": "Transporte",
+            "descripcion": "Nuestro seguro de transporte está diseñado para brindar protección integral a las mercancías y cargas durante su tránsito, ya sea por vía terrestre, aérea o marítima, tanto a nivel nacional como internacional. Sabemos que imprevistos como robos, accidentes, fenómenos naturales o daños en la carga pueden generar grandes pérdidas financieras. Por eso, nuestra cobertura asegura el valor de las mercancías desde el momento de su despacho hasta su destino final. Adicionalmente, ofrecemos pólizas específicas para transporte de mercancías peligrosas, refrigeradas o de alto valor, garantizando tranquilidad para los operadores logísticos y empresas que dependen de la distribución eficiente de sus productos.",
+            "imagen": "img/renta-diaria.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Seguro de Transporte para Agentes de Carga",
+                    "descripcionConjunto": "Su compañía, como agente de carga, es responsable del transporte de los bienes de sus clientes y, por ende, de pérdidas y daños materiales que se pueden producir por diferentes eventos. Protec Seguros le ofrece una solución integral para respaldar los daños o pérdidas materiales que sufran los bienes asegurados con ocasión de su transporte. Con más de 70 años de experiencia, le brindamos confianza a usted y a sus clientes.",
+                    "imagen": "/agentes-carga.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro para Carga de Proyecto",
+                    "descripcionConjunto": "Este seguro está diseñado para cubrir pérdidas o daños materiales a equipos críticos durante su transporte en proyectos de gran escala. Protege además la Pérdida Anticipada de Utilidad (ALOP – DSU) por interrupción del negocio. Incluye soporte en administración y control de riesgos durante todo el proceso.",
+                    "imagen": "/carga-proyectos.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Embarcaciones Comerciales",
+                    "descripcionConjunto": "Este seguro respalda el patrimonio representado en embarcaciones comerciales y cubre afectaciones por daños a terceros o al medio ambiente durante sus labores. Ideal para garantizar continuidad operativa ante imprevistos.",
+                    "imagen": "/embarcacniones-comerciales.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Embarcaciones de Recreo",
+                    "descripcionConjunto": "Protege embarcaciones como yates, lanchas y catamaranes ante pérdidas parciales o totales, así como daños a terceros. Aplica durante navegación en aguas interiores o marinas.",
+                    "imagen": "/embarcaciones-recreo.webp"
+                },
+                {
+                    "nombreConjunto": "Plan Utilitarios y Pesados",
+                    "descripcionConjunto": "Diseñado para vehículos livianos (menos de 2.5 toneladas) y pesados (más de 2.5 toneladas). Cubre accidentes, robos y asistencia para garantizar eficiencia en la cadena logística de tu empresa.",
+                    "imagen": "/camiones.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Transportadores Terrestres de Carga",
+                    "descripcionConjunto": "Cubre daños a mercancía transportada por vehículos terrestres como camiones, mulas y tractomulas a cualquier destino nacional. Protec Seguros respalda su compromiso con los clientes.",
+                    "imagen": "/terrestre-carga.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Transporte de Mercancías Automático",
+                    "descripcionConjunto": "Cubre hurtos, accidentes, desastres naturales y otros riesgos durante el transporte sin necesidad de reportar cada envío. Aplica para todos los modos: terrestre, marítimo, aéreo, férreo y fluvial.",
+                    "imagen": "/mercancia-automatica.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Transporte de Mercancías Específico",
+                    "descripcionConjunto": "Cubre un único envío específico, ideal para despachos puntuales. Protege contra hurto, accidentes y desastres, excluyendo únicamente lo indicado en las condiciones generales.",
+                    "imagen": "/empresas.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Transporte de Valores",
+                    "descripcionConjunto": "Diseñado para empresas que transportan efectivo y títulos valores. Ofrece protección contra hurto calificado y daños durante el trayecto. Es una solución todo riesgo para proteger su patrimonio.",
+                    "imagen": "/transporte-valores.webp"
+                }
+            ]
+        },
+        {
+            "nombre": "Bienes y patrimonio",
+            "descripcion": "La protección del patrimonio de tu empresa es fundamental para asegurar su continuidad y crecimiento. Nuestras pólizas para bienes y patrimonio están diseñadas para cubrir tus activos más importantes, como instalaciones físicas, mobiliario, equipos tecnológicos y maquinaria, ante riesgos como incendios, explosiones, robos, daños por agua y desastres naturales. Además, ofrecemos coberturas personalizables para que puedas adaptarlas a las necesidades específicas de tu empresa, sin importar su tamaño o sector. Nuestro objetivo es minimizar el impacto financiero de cualquier eventualidad, permitiéndote enfocarte en lo más importante el desarrollo de tu negocio.",
+            "imagen": "img/renta-diaria.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Seguro Multirriesgo Corporativo",
+                    "descripcionConjunto": "Los bienes de una empresa son parte de su patrimonio. Con el Seguro Multirriesgo Corporativo Protec Seguros protegemos su funcionamiento frente a hurto, daños por fenómenos geológicos, climáticos y más.",
+                    "imagen": "/multirriesgo-corporativo.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Equipo Electrónico",
+                    "descripcionConjunto": "Respaldamos errores humanos y situaciones que perjudiquen los equipos electrónicos esenciales para su operación. Invierta en su protección y cuide su patrimonio.",
+                    "imagen": "/equipo-electronico.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Incendio",
+                    "descripcionConjunto": "Cubre daños materiales a edificios, mercancías y maquinarias, así como pérdida de ingresos ante eventos accidentales como incendios o desastres naturales.",
+                    "imagen": "/incendios.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro Multirriesgo Copropiedades",
+                    "descripcionConjunto": "Diseñado para copropiedades comerciales o industriales, protege zonas comunes contra riesgos como incendio y terremoto, cumpliendo con la Ley 675 de 2001.",
+                    "imagen": "/copropiedades.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Rotura de Maquinaria",
+                    "descripcionConjunto": "Protege frente a daños mecánicos por explosiones, cortocircuitos, tempestades u otros eventos. Permite reparar o reemplazar maquinaria esencial para su negocio.",
+                    "imagen": "/rotura-maquina.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Sustracción de Establecimientos",
+                    "descripcionConjunto": "Cubre el robo de objetos dentro de sus instalaciones. Protec Seguros lo indemniza para que su empresa continúe operando sin riesgos financieros graves.",
+                    "imagen": "/sustraccion.webp"
+                },
+                {
+                    "nombreConjunto": "Plan Empresario Protec Seguros",
+                    "descripcionConjunto": "Solución completa para gestionar los riesgos de su empresa. Con más de 70 años de experiencia, Protec Seguros lo acompaña en el camino hacia la sostenibilidad y crecimiento.",
+                    "imagen": "/empresario.webp"
+                },
+                {
+                    "nombreConjunto": "Plan Empresa Protegida - Todo Riesgo Empresarial",
+                    "descripcionConjunto": "Solución flexible que le permite elegir las coberturas más importantes para su empresa. Ideal para asegurar el cumplimiento de metas y la protección del patrimonio.",
+                    "imagen": "/protegido.webp"
+                }
+            ]
+        },
+        {
+            "nombre": "Ingeniería",
+            "descripcion": "En proyectos de construcción y obras civiles, sabemos que los riesgos están presentes en cada etapa. Ofrecemos seguros especializados en ingeniería que cubren desde la fase de planificación hasta la entrega final, protegiendo tanto la infraestructura como los equipos y la maquinaria utilizada. Nuestras pólizas abarcan daños materiales, errores técnicos, robos y responsabilidad civil frente a terceros. También incluimos opciones específicas para construcción de obras civiles, instalaciones industriales y energéticas, y proyectos de ingeniería de alto riesgo. Con nuestras coberturas, aseguramos que puedas completar tus proyectos dentro del tiempo y presupuesto estimado, minimizando imprevistos que puedan afectar su ejecución.",
+            "imagen": "img/renta-diaria.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Seguro de Montaje",
+                    "descripcionConjunto": "El Seguro de Montaje Protec Seguros le brinda respaldo ante inundaciones, deslizamientos, actos malintencionados, hurto o incendio, durante sus proyectos de montaje, protegiendo su patrimonio y garantizando la continuidad de sus actividades.",
+                    "imagen": "/seguro-montaje.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Energía Eólica",
+                    "descripcionConjunto": "Protege su inversión en proyectos de energía eólica desde el transporte hasta la operación de los equipos, garantizando la continuidad del desarrollo frente a daños inesperados.",
+                    "imagen": "/eolica.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Energía Solar",
+                    "descripcionConjunto": "Protección para sistemas de energía solar durante transporte, instalación y operación. Respaldo ideal para empresas que buscan optimizar sus procesos con tecnologías limpias.",
+                    "imagen": "/solar.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Construcción",
+                    "descripcionConjunto": "Ofrece respaldo económico ante imprevistos como inundaciones, deslizamientos, hurto o incendio durante la construcción, evitando la paralización de proyectos.",
+                    "imagen": "/construccion.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Maquinaria y Equipo de Contratistas",
+                    "descripcionConjunto": "Cobertura todo riesgo para maquinaria y equipos utilizados en construcción, agricultura, industria o puertos. Respaldo ante daños o pérdidas que afecten la operación.",
+                    "imagen": "/obra-civil.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Obras Civiles Terminadas",
+                    "descripcionConjunto": "Cubre daños o destrucción de obras públicas como puentes, carreteras o parques, ofreciendo respaldo ante eventos inesperados una vez terminadas y en funcionamiento.",
+                    "imagen": "/obras-civiles.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Vivienda Segura",
+                    "descripcionConjunto": "Protege la inversión de los compradores y constructoras durante la fase de operación de un edificio, frente a imprevistos que comprometan su estabilidad y habitabilidad.",
+                    "imagen": "/vivienda-segura.webp"
+                }
+            ]
+        },
+        {
+            "nombre": "Cumplimiento Operativo",
+            "descripcion": "El seguro de cumplimiento es una garantía esencial en la ejecución de contratos tanto públicos como privados. Ofrecemos una amplia gama de pólizas que cubren el riesgo de incumplimiento por parte de contratistas, proveedores o socios comerciales, protegiendo a las partes involucradas contra posibles pérdidas económicas. Nuestras coberturas incluyen contratos de obra, suministro, prestación de servicios y concesiones, garantizando que las obligaciones pactadas se cumplan en tiempo y forma. Este servicio brinda tranquilidad a las empresas al reducir el riesgo financiero y permitir relaciones comerciales más seguras y transparentes. Además, contamos con soluciones ajustadas a las exigencias legales del mercado local y nacional.",
+            "imagen": "img/renta-diaria.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Seguro de Arrendamiento",
+                    "descripcionConjunto": "¿Le han quedado mal con los pagos arriendos que recibe su empresa? Cuando adquiere este seguro se despreocupa porque sabe que, pase lo que pase, tiene garantizado el ingreso que le generan sus locales, bodegas u otros espacios. La cobertura principal es para el incumplim​iento de pagos de arriendo, servicios públicos y administración, pero tiene a su disposición protecciones opcionales como daños y faltantes, y asistencia domiciliaria, que comprende servicio de plomería, electricidad, cerrajería, reemplazo de vidrios y asistencia jurídica telefónica. El seguro está disponible de manera individual y colectiva.",
+                    "imagen": "/arrendamiento.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Cumplimiento para Contratistas y Proveedores",
+                    "descripcionConjunto": "Para cualquier empresa es un reto elegir a los contratistas y proveedores que la acompañarán en el desarrollo de un proyecto. Aunque estas decisiones se toman a partir de numerosas variables con el fin de evitar dificultades, siempre hay un nivel de incertidumbre que es esencial gestionar. Nada como contar con apoyo económico si un proveedor hizo mal uso de los recursos que su organización le dio o entregó un producto con fallas. Protec Seguros le garantiza el cuidado de su patrimonio ante el incumplimiento por parte de sus aliados.",
+                    "imagen": "/contratista-provedores.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Cumplimiento de Eficiencia Energética y Generación de Energía",
+                    "descripcionConjunto": "Comprende las actividades de suministro, instalación y mantenimiento de equipos en su empresa con el fin de generar ahorro en sus costos energéticos. Se establece un ahorro energético estimado y, posteriormente, se compara con el ahorro energético efectivo para determinar si se cumplió la promesa hecha por el contratista.",
+                    "imagen": "/eficiencia-energetica.webp"
+                }
+            ]
+        }
+    ],
+    "Protec legal": [
+        {
+            "nombre": "Cumplimiento",
+            "descripcion": "El seguro de cumplimiento es una garantía esencial en la ejecución de contratos tanto públicos como privados. Ofrecemos una amplia gama de pólizas que cubren el riesgo de incumplimiento por parte de contratistas, proveedores o socios comerciales, protegiendo a las partes involucradas contra posibles pérdidas económicas. Nuestras coberturas incluyen contratos de obra, suministro, prestación de servicios y concesiones, garantizando que las obligaciones pactadas se cumplan en tiempo y forma. Este servicio brinda tranquilidad a las empresas al reducir el riesgo financiero y permitir relaciones comerciales más seguras y transparentes. Además, contamos con soluciones ajustadas a las exigencias legales del mercado local y nacional.",
+            "imagen": "img/poliza-salud.jpg",
+            "conjuntoServicios": [
+                {
+                    "nombreConjunto": "Disposiciones Legales",
+                    "descripcionConjunto": "Si administra una entidad pública conocerá, por experiencia, la importancia de contar con proveedores para llevar a cabo sus proyectos. Asegure los acuerdos entre ambas partes y evite inconformidades durante la ejecución del contrato. Con nuestro Seguro de Cumplimiento a Favor de Entidades Estatales respaldará su gestión administrativa y sentirá tranquilidad a la hora de firmar contratos, ofertas mercantiles, órdenes de compra u otros documentos con los que el patrimonio de su organización está en juego.",
+                    "imagen": "/disposicion-legal.webp"
+                },
+                {
+                    "nombreConjunto": "Empresas de Servicios Públicos Domiciliarios",
+                    "descripcionConjunto": "Si administra una entidad prestadora de servicios públicos domiciliarios, nunca está exento de afrontar incumplimientos por parte de sus contratistas. Respaldar los acuerdos con contratos, órdenes de compra u ofertas mercantiles es esencial. Nuestro Seguro de Cumplimiento le brinda esta posibilidad para que sus proyectos avancen con el mejor apoyo.",
+                    "imagen": "/servicios-publicos-domiciliarios.webp"
+                },
+                {
+                    "nombreConjunto": "Entidades Estatales",
+                    "descripcionConjunto": "Asegure los acuerdos entre su entidad y los proveedores. Nuestro Seguro de Cumplimiento a Favor de Entidades Estatales respaldará su gestión administrativa, brindándole tranquilidad al firmar contratos, ofertas mercantiles, órdenes de compra u otros documentos. Garantice las obligaciones acordadas con sus contratistas.",
+                    "imagen": "/entidades-estatales.webp"
+                },
+                {
+                    "nombreConjunto": "Entidades públicas con Régimen Privado de Contratación",
+                    "descripcionConjunto": "Si su entidad opera bajo un régimen privado de contratación, respalde sus acuerdos con un seguro. Esto le permitirá gestionar correctamente los riesgos ante posibles incumplimientos, asegurando el avance de sus proyectos con tranquilidad y confianza.",
+                    "imagen": "/entidades-publicas.webp"
+                },
+                {
+                    "nombreConjunto": "Grandes Beneficiarios",
+                    "descripcionConjunto": "Respalde el cumplimiento de sus contratistas con un seguro que proteja su inversión, especialmente cuando hay anticipos. Deje de preocuparse por entregas puntuales y concéntrese en impulsar su negocio. Protec Seguros le ayuda a fortalecer sus alianzas y productividad.",
+                    "imagen": "/grandes-benficiarios.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Cumplimiento a Favor de Particulares",
+                    "descripcionConjunto": "Si administra contratos como persona natural o jurídica, protéjase frente a incumplimientos con el Seguro de Cumplimiento a Favor de Particulares. Respalde contratos, órdenes de compra y más, asegurando que su esfuerzo e inversión estén garantizados.",
+                    "imagen": "/cumplimiento-empresas.webp"
+                },
+                {
+                    "nombreConjunto": "Seguro de Caución Judicial",
+                    "descripcionConjunto": "Las cauciones judiciales son garantías que aseguran el cumplimiento de obligaciones en procesos judiciales o administrativos. Están establecidas por ley o por autoridad competente, y su valor y objeto se determinan en el marco legal correspondiente.",
+                    "imagen": "/caucion-judicioal.webp"
+                }
+            ]
+        },
+        {
+            "nombre": "Seguro de responsabilidad civil extracontractual derivada de cumplimiento",
+            "descripcion": "El papel es el rey cuando se habla de un contrato. Lo que está estipulado en este se debe cumplir para que las partes involucradas el contratante y el contratista— queden satisfechas. ¿Qué pasa si en la ejecución de un contrato se afecta a terceros? El Seguro de Responsabilidad Civil Extracontractual Derivada de Cumplimiento lo respalda cuando una persona sufra lesiones, fallezca o le causen daños materiales a consecuencia de cualquier actividad que su empresa esté ejecutando como parte de un contrato. Cuente con Protec Seguros para desarrollar sus proyectos de forma exitosa y cuidar su patrimonio.​​​",
+            "imagen": "img/renta-diaria.jpg",
+            "incluye": [
+                "Gastos incurridos por ocasionar daños materiales o personales a terceros durante la ejecución de un contrato.",
+                "Gastos de defensa cuando deba contratar a un abogado para que represente a su empresa frente a una reclamación.",
+                "Muerte o lesiones de sus empleados por accidentes laborales en los que su empresa sea responsable",
+                "Gastos defensa",
+                "Responsabilidad civil extracontractual"
+            ],
+            "no_incluye": [
+                "Cirugías estéticas",
+                "Tratamientos experimentales"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/salud-grafico.png",
+                    "titulo": "El 65% de las personas no están aseguradas",
+                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                }
+            ]
+        },
+        {
+            "nombre": "Sostenibilidad legal",
+            "descripcion": "Con este seguro buscamos guiarte para que identifiques y verifiques el conveniente cumplimiento de las normas, revises los procesos e implementes mejoras para evitar riesgos de tipo legal en tu empresa. Este acompañamiento se brinda por medio de un equipo de abogados expertos en las siguientes áreas Laboral​, ​​Societario​​​, ​​Datos personales​​​, ​​Seguridad social​​​,​ ​Contractual, Propiedad intelectual ​​​​​",
+            "imagen": "img/renta-diaria.jpg",
+            "incluye": [
+                "Prevención y proyección de la empresa",
+                "En caso de que se materialice un riesgo legal",
+                "Asistencias ilimitadas"
+            ],
+            "no_incluye": [
+                "Cirugías estéticas",
+                "Tratamientos experimentales"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/salud-grafico.png",
+                    "titulo": "El 65% de las personas no están aseguradas",
+                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                }
+            ]
+        },
+        {
+            "nombre": "Protección legal",
+            "descripcion": "En el desarrollo de su actividad empresarial puede verse enfrentado a diferencias con sus clientes, trabajadores y proveedores que pueden tener implicaciones legales y en los que usted no tenga claro qué hacer o a quién acudir. Por esto en Seguros Protec Seguros hemos desarrollado el Seguro de Protección Legal Empresarial , una solución que busca asesorarlo y defenderlo con abogados especializados en la legislación colombiana, ​​en los momentos en los que usted más lo necesite. Así usted podrá dedicarse a lo más importante. su empresa.​​​​​​​​ ​​​​​",
+            "imagen": "img/renta-diaria.jpg",
+            "incluye": [
+                "Asesoría jurídica telefónica",
+                "Asesoría jurídica presencial",
+                "Revisión y redacción de contratos",
+                "Acompañamiento en audiencia de conciliacion prejudicial"
+            ],
+            "no_incluye": [
+                "Cirugías estéticas",
+                "Tratamientos experimentales"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/salud-grafico.png",
+                    "titulo": "El 65% de las personas no están aseguradas",
+                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                }
+            ]
+        }
+    ],
+    "Protec tecnologia": [
+        {
+            "nombre": "Seguro de protección digital empresas",
+            "descripcion": "Internet se ha convertido en una herramienta imprescindible para todas las empresas del mundo en cualquier campo de acción, muy útil para ampliar su mercado y suplir diversas necesidades, desde comunicarle sus servicios a un interesado y alojar información, hasta recolectar datos personales de clientes potenciales.​ La realidad, sin embargo, es que la actividad en la web conlleva riesgos que aumentan en la medida en que se descubren novedosas formas de asaltar l​​a información y la presencia de las empresas y sus clientes en la r​ed. Si alguien entra sin autorización al sistem​a de información de su compañía y roba o daña datos importantes, está siendo víctima de delitos informáticos y es fundamental que, frente situaciones como estas, cuente con un respaldo para no perder la tranquilidad. Para que no ponga en riesgo uno de sus activos más valiosos, como lo es la información, y con ello toda la actividad de su compañía, le presentamos nuestro Seguro de Protección Digital Empresas, la mejor opción para su bienestar y el de sus clientes. ​​​​​​",
+            "imagen": "img/poliza-salud.jpg",
+            "incluye": [
+                "Proteger su negocio de ataques​generados por virus informáticos o ciberdelincuentes.",
+                "Preservar su patrimonio.",
+                "Resguardar el funcionamiento de su compañía.",
+                "Proteger​ su información y la de sus clientes como activo esencial.",
+                "Responsabilidad por violación de privacidad o confidencialidad.",
+                "Responsabilidad por software malicioso o virus informático.",
+                "Responsabilidad por publicaciones en medio digitales",
+                "Recuperación en medios digitales",
+                "Extorsión Cibernética",
+                "Interrupción del negocio",
+                "Transferencias electrónicas.",
+                "Gastos de defensa y gastos de investigación oficial.",
+                "Gastos de emergencia.",
+                "Protección de la reputación.",
+                "Gastos forenses."
+            ],
+            "no_incluye": [
+                "Cirugías estéticas",
+                "Tratamientos experimentales"
+            ],
+            "estadisticas": [
+                {
+                    "imagen": "img/salud-grafico.png",
+                    "titulo": "El 65% de las personas no están aseguradas",
+                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                }
+            ]
+        }
+    ]
+}
