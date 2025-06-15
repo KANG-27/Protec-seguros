@@ -1,0 +1,67 @@
+{
+  "personas": {
+    "Protec salud": [
+      "Póliza de Salud",
+      "Póliza de Enfermedades Graves",
+      "Póliza Plan Renta Diaria",
+      "Salud Para Todos"
+    ],
+    "Protec personas": [
+      "Seguro de Vida",
+      "Seguro de Renta Vitalicia",
+      "Seguro de Educación",
+      "Seguro de Pensión",
+      "Seguro de Accidentes",
+      "Mascotas"
+    ],
+    "Protec movilidad": [
+      "Plan Utilitarios y Pesados",
+      "Seguro de Autos",
+      "Seguro de Motos",
+      "Seguro de Bicis y Patinetas",
+      "Seguro de Viaje",
+      "Plan Muévete Libre",
+      "RC Familiar",
+      "RC Profesional",
+      "RC Profesionales de la Salud",
+      "RC Profesionales Veterinarios",
+      "Seguro Colectivo de Vida",
+      "Seguro de Exequias",
+      "Fondo de Ahorros"
+    ],
+    "Protec patrimonio": [
+      "Seguro de Hogar",
+      "Seguro de Arrendamiento",
+      "Plan Inversión Protegida"
+    ]
+  },
+  "empresas": {
+    "Protec Talento humano": [
+      "Asegura tu talento",
+      "Salud Colectiva",
+      "Hogar Colectiva",
+      "Vida Grupo",
+      "Autos Colectivo",
+      "Fraude de Empleados",
+      "Pensión",
+      "Previsional de invalidez y sobrevivencia",
+      "Renta"
+    ],
+    "Protec Modelo Operativo": [
+      "Responsabilidad Civil",
+      "Transporte",
+      "Bienes y patrimonio",
+      "Ingenieria",
+      "Cumplimiento Operativo"
+    ],
+    "Protec Legal": [
+      "Cumplimiento",
+      "RC Derivada decumplimiento",
+      "Sostenibilidad legal",
+      "Protección legal"
+    ],
+    "Protec Tecnología": [
+      "Seguro de Protección Digital"
+    ]
+  }
+}
