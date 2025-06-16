@@ -1,6 +1,5 @@
 class HeaderComponent extends HTMLElement {
   async connectedCallback() {
-    // 🔹 Carga la data del JSON
     const res = await fetch('data/menu/seguros-menu.json');
     const data = await res.json();
 
@@ -11,14 +10,26 @@ class HeaderComponent extends HTMLElement {
             <img src="img/logo.png" alt="Logo" class="header__logo">
           </div>
           <div class="header__menu">
-            <a href="index.html" class="header__link">Inicio</a>
-            <a href="#" class="header__link" id="btnToggleMenu">Seguros</a>
-            <a href="#" class="header__link">Pagos</a>
+            <p class="header__desplegable"><a href="#">Inicio</a></p>
+            <p class="header__desplegable" id="btnToggleMenu">
+              Seguros <span class="arrow-down">
+                <svg xmlns="http://www.w3.org/2000/svg" height="15px" viewBox="0 -960 960 960" width="15px" fill="#FFFFFF">
+                  <path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z"/>
+                </svg>
+              </span>
+            </p>
+            <p class="header__desplegable" id="btnTogglePagos">
+              Pagos <span class="arrow-down">
+                <svg xmlns="http://www.w3.org/2000/svg" height="15px" viewBox="0 -960 960 960" width="15px" fill="#FFFFFF">
+                  <path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z"/>
+                </svg>
+              </span>
+            </p>
             <button class="header__button" id="btnCotiza">Cotiza ya</button>
           </div>
         </nav>
 
-        <div class="header__content-seguros" style="display: none;">
+        <div class="header__content-seguros">
           <div class="header__content-buttons">
             <button class="header__section-button" id="btnPersonas">Personas</button>
             <button class="header__section-button" id="btnEmpresas">Empresas</button>
@@ -26,9 +37,14 @@ class HeaderComponent extends HTMLElement {
           <div class="seguros__layout">
             <div id="categorias" class="seguros__categorias"></div>
             <div id="planes" class="seguros__planes">
-              <p style="color: #888;">Selecciona una categoría para ver los planes.</p>
+              <p class="seguros__intro-text">Selecciona una categoría para ver los planes.</p>
             </div>
           </div>
+        </div>
+
+        <div class="header__content-pagos">
+          <h3>Botones de Pago</h3>
+          <div class="pagos__layout" id="pagosContainer"></div>
         </div>
       </header>
     `;
@@ -36,32 +52,85 @@ class HeaderComponent extends HTMLElement {
     const btnPersonas = this.querySelector('#btnPersonas');
     const btnEmpresas = this.querySelector('#btnEmpresas');
     const toggleMenu = this.querySelector('#btnToggleMenu');
+    const pagosToggle = this.querySelector('#btnTogglePagos');
     const segurosContent = this.querySelector('.header__content-seguros');
+    const pagosContent = this.querySelector('.header__content-pagos');
     const categoriasContainer = this.querySelector('#categorias');
     const planesContainer = this.querySelector('#planes');
+    const pagosContainer = this.querySelector('#pagosContainer');
 
-    // Mostrar/ocultar menú
+    // 🔁 Toggling Menús con rotación de flechas
     toggleMenu.addEventListener('click', () => {
-      segurosContent.style.display = segurosContent.style.display === 'none' ? 'flex' : 'none';
+      const isVisible = segurosContent.classList.contains('show');
+
+      // Cierra ambos primero
+      segurosContent.classList.remove('show');
+      pagosContent.classList.remove('show');
+      toggleMenu.querySelector('.arrow-down')?.classList.remove('rotate');
+      pagosToggle.querySelector('.arrow-down')?.classList.remove('rotate');
+
+      if (!isVisible) {
+        segurosContent.classList.add('show');
+        toggleMenu.querySelector('.arrow-down')?.classList.add('rotate');
+      }
     });
 
-    // 🔹 Renderizar grupos (Protec salud, etc.)
+    pagosToggle.addEventListener('click', async () => {
+      const isVisible = pagosContent.classList.contains('show');
+
+      // Cierra ambos primero
+      segurosContent.classList.remove('show');
+      pagosContent.classList.remove('show');
+      toggleMenu.querySelector('.arrow-down')?.classList.remove('rotate');
+      pagosToggle.querySelector('.arrow-down')?.classList.remove('rotate');
+
+      if (!isVisible) {
+        pagosContent.classList.add('show');
+        pagosToggle.querySelector('.arrow-down')?.classList.add('rotate');
+
+        if (!pagosContainer.hasChildNodes()) {
+          const resPagos = await fetch('data/menu/botones-pago.json');
+          const pagosData = await resPagos.json();
+          renderPagos(pagosData.botonesPago);
+        }
+      }
+    });
+
+    // 🔘 Botones de pago
+    function renderPagos(botones) {
+      pagosContainer.innerHTML = '';
+      for (const boton in botones) {
+        const { color, link, nombre } = botones[boton];
+        const a = document.createElement('a');
+        a.href = link;
+        a.target = '_blank';
+        a.className = 'pago__boton';
+        a.style.backgroundColor = color;
+        a.textContent = nombre;
+        pagosContainer.appendChild(a);
+      }
+    }
+
+    // 🔹 Renderizar categorías
     const renderCategorias = (tipo) => {
       categoriasContainer.innerHTML = '';
       const grupos = data[tipo];
 
       for (const grupo in grupos) {
         const btn = document.createElement('button');
-        btn.textContent = grupo;
+        btn.classList.add('seguros__categorias-button');
+        btn.innerHTML = `
+          <span>${grupo}</span>
+          <span class="icon-container">
+            <svg class="icon-arrow icon-default" xmlns="http://www.w3.org/2000/svg" height="10px" viewBox="0 -960 960 960" width="10px" fill="#008EFF"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z"/></svg>
+            <svg class="icon-arrow icon-active" xmlns="http://www.w3.org/2000/svg" height="10px" viewBox="0 -960 960 960" width="10px" fill="#FFFFFF"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z"/></svg>
+          </span>
+        `;
+
         btn.addEventListener('click', () => {
-          // Quitar clase activa de todos
           const todos = categoriasContainer.querySelectorAll('button');
           todos.forEach(b => b.classList.remove('seguros__categorias-active'));
-
-          // Activar el botón actual
           btn.classList.add('seguros__categorias-active');
-
-          // Renderizar los planes
           renderPlanes(grupos[grupo]);
         });
 
@@ -69,52 +138,50 @@ class HeaderComponent extends HTMLElement {
       }
     };
 
-    // 🔹 Renderizar planes a la derecha
     const renderPlanes = (planes) => {
-      planesContainer.innerHTML = `
-        <ul class="seguros__planes-list">
-          ${planes.map(p => `<li><a href="#">${p}</a></li>`).join('')}
-        </ul>
-      `;
-    };
-    const renderAutoText = () => {
-      planesContainer.innerHTML = `
-        <p style="color: #888;">Selecciona una categoría para ver los planes.</p>
-      `;
+      planesContainer.innerHTML = '';
+      const ul = document.createElement('ul');
+      ul.classList.add('seguros__planes-list', 'seguros__planes-fade');
+      ul.innerHTML = planes.map(p => `<li><a href="#">${p}</a></li>`).join('');
+      planesContainer.appendChild(ul);
+      void ul.offsetWidth;
+      ul.classList.add('show');
     };
 
-    // Escucha botones
+    const renderAutoText = () => {
+      planesContainer.innerHTML = '';
+      const p = document.createElement('p');
+      p.className = 'seguros__intro-text';
+      p.textContent = 'Selecciona una categoría para ver los planes.';
+      planesContainer.appendChild(p);
+      void p.offsetWidth;
+      p.classList.add('show');
+    };
+
     btnPersonas?.addEventListener('click', () => {
       renderCategorias('personas');
       setActive(btnPersonas, btnEmpresas);
       window.location.hash = 'personas';
-      renderAutoText()
+      renderAutoText();
     });
 
     btnEmpresas?.addEventListener('click', () => {
       renderCategorias('empresas');
       setActive(btnEmpresas, btnPersonas);
       window.location.hash = 'empresas';
-      renderAutoText()
+      renderAutoText();
     });
-    // Función que gestiona el estilo activo
+
     function setActive(activeBtn, inactiveBtn) {
       activeBtn.classList.add('active');
       inactiveBtn.classList.remove('active');
     }
-    // Detectar si ya hay un hash al cargar la página
+
     const tipoPorDefecto = window.location.hash.replace('#', '') || 'personas';
     renderCategorias(tipoPorDefecto);
-
-    // Activar el botón correcto visualmente
-    if (tipoPorDefecto === 'empresas') {
-      setActive(btnEmpresas, btnPersonas);
-    } else {
-      setActive(btnPersonas, btnEmpresas);
-    }
-
-    // Por defecto cargar personas
-    renderCategorias('personas');
+    tipoPorDefecto === 'empresas'
+      ? setActive(btnEmpresas, btnPersonas)
+      : setActive(btnPersonas, btnEmpresas);
   }
 }
 

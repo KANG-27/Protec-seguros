@@ -1,0 +1,39 @@
+{
+    "botonesPago": [
+        {
+            "nombre": "Seguro Sura",
+            "color": "#2D6DF6",
+            "link": "https://www.segurossura.com.co/paginas/pago-express.aspx#/Pagos"
+        },
+        {
+            "nombre": "Mapfre Seguros",
+            "color": "#FF0004",
+            "link": "https://cotiza.mapfre.com.co/pagosWeb/vista/paginas/noFilterIniPagosPublico.jsf"
+        },
+        {
+            "nombre": "AXA Colpatria",
+            "color": "#FFFF00",
+            "link": "https://www.axacolpatria.co/pagosenlinea/opcionespago"
+        },
+        {
+            "nombre": "Mapfre Exequial",
+            "color": "#FF00BF",
+            "link": "https://cotiza.mapfre.com.co/pagosWeb/vista/paginas/noFilterIniPagosPublicoMSE.jsf"
+        },
+        {
+            "nombre": "Pago Aliado Finesa",
+            "color": "#00C8FF",
+            "link": "https://pagos.finesa.com.co/autenticacion"
+        },
+        {
+            "nombre": "Pague Estado",
+            "color": "#FFAE00",
+            "link": "https://www.psepagos.co/PSEHostingUI/DatabaseTicketOffice.aspx?ID=2909"
+        },
+        {
+            "nombre": "Seguro Estado",
+            "color": "#0BE433",
+            "link": "https://portaldepago.segurosdelestado.com/pago-agil"
+        }
+    ]
+}

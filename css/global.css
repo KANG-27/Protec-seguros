@@ -61,6 +61,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.header-wrapper {
+  position: relative;
+  z-index: 1;
+}
+
 
 /* ✅ Clases utilitarias */
 .text-sm { font-size: var(--font-size-sm); }

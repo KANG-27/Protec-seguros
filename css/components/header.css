@@ -1,13 +1,69 @@
+p {
+  color: white;
+}
+
 .header__nav {
   background-color: var(--primary-color);
   display: flex;
   justify-content: space-between;
+  padding: 3%;
+}
+
+.header__menu {
+  display: flex;
+  gap: 45px;
+  width: 50%;
+  justify-content: flex-end;
+}
+
+.arrow-down {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.arrow-down.rotate {
+  transform: rotate(180deg);
+}
+
+.header__desplegable {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .header__content-seguros {
+  padding-bottom: 5%;
+}
+
+.header__content-pagos {
+  padding: 2% 0 5% 0;
+}
+
+.header__content-seguros,
+.header__content-pagos {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
   display: flex;
   flex-direction: column;
   align-items: center;
+  box-shadow: 10px 5px 5px #00000024;
+  border-radius: 10px;
+  background: white;
+  transform: translateY(-10px);
+  opacity: 0;
+  visibility: hidden;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.header__content-seguros.show,
+.header__content-pagos.show {
+  transform: translateY(0);
+  opacity: 1;
+  visibility: visible;
 }
 
 .header__content-buttons {
@@ -18,7 +74,6 @@
   gap: 1rem;
 }
 
-
 .header__section-button {
   background-color: transparent;
   color: #333;
@@ -27,7 +82,7 @@
   border-radius: 8px;
   cursor: pointer;
   font-weight: bold;
-  transition: 0.3s;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .header__section-button:hover {
@@ -40,10 +95,13 @@
   color: #fff;
 }
 
-
 .header__button {
   background-color: #FFEA4D;
-  color: black;
+  margin: 2% 0%;
+  border: none;
+  border-radius: 10px;
+  padding: 0% 10%;
+  cursor: pointer;
 }
 
 .seguros__layout {
@@ -69,6 +127,8 @@
   border-radius: 8px;
   font-weight: bold;
   width: 100%;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  display: flex;
 }
 
 .seguros__categorias button:hover {
@@ -81,7 +141,6 @@
   color: white;
 }
 
-
 .seguros__planes {
   border-left: 2px solid #ddd;
   padding-left: 1rem;
@@ -91,6 +150,7 @@
 .seguros__planes-list a {
   color: black;
 }
+
 .seguros__planes-list :hover {
   color: #008cffb3;
 }
@@ -102,4 +162,70 @@
   flex-direction: column;
   gap: 5px;
   padding-left: 20px;
+}
+
+.seguros__planes-list,
+.seguros__intro-text {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.seguros__planes-list,
+.seguros__intro-text,
+.seguros__planes-list.show,
+.seguros__intro-text.show p {
+  color: #888;
+  padding-left: 20px;
+  opacity: 1;
+}
+
+.seguros__planes-list.show,
+.seguros__intro-text.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.icon-container {
+  display: inline-flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.icon-arrow {
+  display: none;
+  transition: transform 0.3s ease;
+}
+
+.seguros__categorias-button .icon-default {
+  display: inline;
+}
+
+.seguros__categorias-active .icon-default {
+  display: none;
+}
+
+.seguros__categorias-active .icon-active {
+  display: inline;
+}
+
+.pago__boton {
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagos__layout {
+  margin-top: 2%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
 }
