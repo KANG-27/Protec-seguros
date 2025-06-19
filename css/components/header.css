@@ -229,3 +229,276 @@ p {
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 }
+
+
+/* ================= MOBILE ONLY ================= */
+@media (max-width: 768px) {
+
+  /* Oculta el menú desktop y muestra el toggle hamburguesa */
+  .header__menu {
+    display: none;
+  }
+
+  .header__mobile-toggle {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  /* Modal full-screen */
+  .header__mobile-modal {
+    position: fixed;
+    inset: 0;
+    background: var(--primary-color);
+    opacity: 0;
+    transform: translateY(-100%);
+    visibility: hidden;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    z-index: 9999;
+  }
+
+  .header__mobile-modal.show {
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+  }
+
+
+  /* Header dentro del modal */
+  .mobile__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .mobile__logo {
+    height: 32px;
+  }
+
+  .mobile__close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  /* Tabs Personas / Empresas */
+  .mobile__tabs {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .mobile__tabs button {
+    flex: 1;
+    background: transparent;
+    border: none;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 999px;
+  }
+
+  .mobile__tabs button.active {
+    background: #fff;
+    color: var(--primary-color);
+  }
+
+  /* Contenedor scrollable de secciones */
+  .mobile__content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0 1rem 1rem;
+  }
+
+  /* Cada sección acordeón */
+  .mobile__section {
+    margin-bottom: 0.75rem;
+  }
+
+  .mobile__section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    color: var(--primary-color);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .mobile__section-header .arrow-down {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+
+  .mobile__section.open .mobile__section-header .arrow-down {
+    transform: rotate(180deg);
+  }
+
+  /* Cuerpo desplegable */
+  .mobile__section-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    background: #fff;
+    border-radius: 0 0 8px 8px;
+  }
+
+  .mobile__section.open .mobile__section-body {
+    /* suficiente para todo el contenido */
+    max-height: max-content;
+  }
+
+  .mobile__section-body a,
+  .mobile__section-body li {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: var(--text-color);
+    text-decoration: none;
+  }
+
+  .mobile__section-body a:hover {
+    background: #f0f0f0;
+  }
+
+  /* Botón Cotiza ya en mobile, fijo al pie */
+  .header__mobile-modal .header__button {
+    margin: 1rem;
+    width: calc(100% - 2rem);
+    align-self: center;
+  }
+}
+
+/* por defecto solo muestro el icono azul */
+.seguros__categorias-button .icon-default {
+  display: inline;
+}
+
+.seguros__categorias-button .icon-active {
+  display: none;
+}
+
+/* cuando el botón tenga .active, oculto el azul y muestro el blanco */
+.seguros__categorias-button.active .icon-default {
+  display: none;
+}
+
+.seguros__categorias-button.active .icon-active {
+  display: inline;
+}
+/* Flechas de toggle */
+.arrow-down {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+.arrow-down.rotate {
+  transform: rotate(180deg);
+}
+
+/* Contenido desplegable */
+.header__content-seguros,
+.header__content-pagos {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  transform: translateY(-10px);
+  opacity: 0;
+  visibility: hidden;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 100;
+}
+.header__content-seguros.show,
+.header__content-pagos.show {
+  transform: translateY(0);
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Botones de sección */
+.header__section-button {
+  background: transparent;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+.header__section-button.active,
+.header__section-button:hover {
+  background: #008EFF;
+  color: #fff;
+}
+
+/* Categorías con flechas */
+.seguros__categorias-button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: transparent;
+  border: none;
+  padding: 0.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+.seguros__categorias-button .icon-default {
+  display: inline;
+}
+.seguros__categorias-button .icon-active {
+  display: none;
+}
+.seguros__categorias-button.active {
+  background: #008EFF;
+  color: #fff;
+}
+.seguros__categorias-button.active .icon-default {
+  display: none;
+}
+.seguros__categorias-button.active .icon-active {
+  display: inline;
+}
+
+/* Planes y texto intro */
+.seguros__planes-list,
+.seguros__intro-text {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.seguros__planes-list.show,
+.seguros__intro-text.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Botones de pago */
+.pago__boton {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: opacity 0.3s ease;
+}
+.pago__boton:hover {
+  opacity: 0.8;
+}
