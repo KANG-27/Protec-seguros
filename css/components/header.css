@@ -6,7 +6,7 @@ p {
   background-color: var(--primary-color);
   display: flex;
   justify-content: space-between;
-  padding: 3%;
+  padding: 2%;
 }
 
 .header__menu {

@@ -1,12 +1,13 @@
 @import url('./components/header.css');
+@import url('./components/home-content.css');
 
 
 :root {
   /* 🎨 Colores */
   --primary-color: #008EFF;
-  --secondary-color: #004D99;
+  --secondary-color: #1F54BC;
   --text-color: #333;
-  --background-color: #f9f9f9;
+  --background-color: #ffff;
   --white: #fff;
 
   /* ✍️ Tipografía */
@@ -15,7 +16,7 @@
   --font-size-sm: 14px;
   --font-size-md: 18px;
   --font-size-lg: 24px;
-  --font-size-xl: 32px;
+  --font-size-xl: 40px;
 
   /* 📏 Espaciado */
   --spacing-xs: 0.5rem;
@@ -23,6 +24,16 @@
   --spacing-md: 1.5rem;
   --spacing-lg: 2rem;
 }
+
+@font-face {
+  font-family: 'Tato';
+  src: url('/fonts/Tato.woff2') format('woff2'),
+    url('/fonts/Tato.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 body {
   margin: 0;
@@ -33,21 +44,40 @@ body {
   line-height: 1.6;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--text-color);
   margin-bottom: var(--spacing-sm);
   line-height: 1.2;
 }
-h1{
-  color: var(--secundary-color);
+
+h1 {
+  color: var(--secondary-color);
   margin-bottom: var(--spacing-sm);
   line-height: 1.2;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  /* Medium */
+  font-size: var(--font-size-xl);
 }
 
-h1 { font-size: var(--font-size-xl); }
-h2 { font-size: var(--font-size-lg); }
-h3 { font-size: var(--font-size-md); }
-h4, h5, h6 { font-size: var(--font-size-sm); }
+
+h2 {
+  font-size: var(--font-size-lg);
+}
+
+h3 {
+  font-size: var(--font-size-md);
+}
+
+h4,
+h5,
+h6 {
+  font-size: var(--font-size-sm);
+}
 
 p {
   margin-bottom: var(--spacing-sm);
@@ -61,6 +91,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 .header-wrapper {
   position: relative;
   z-index: 1;
@@ -68,24 +99,92 @@ a:hover {
 
 
 /* ✅ Clases utilitarias */
-.text-sm { font-size: var(--font-size-sm); }
-.text-md { font-size: var(--font-size-md); }
-.text-lg { font-size: var(--font-size-lg); }
-.text-xl { font-size: var(--font-size-xl); }
-.text-primary { color: var(--primary-color); }
-.text-white { color: var(--white); }
-.bg-primary { background-color: var(--primary-color); }
-.p-sm { padding: var(--spacing-sm); }
-.p-md { padding: var(--spacing-md); }
-.p-lg { padding: var(--spacing-lg); }
-.mt-sm { margin-top: var(--spacing-sm); }
-.mt-md { margin-top: var(--spacing-md); }
-
-/* ✅ Responsive (móvil primero) */
-@media (max-width: 768px) {
-  h1 { font-size: 28px; }
-  h2 { font-size: 22px; }
-  h3 { font-size: 18px; }
-  body { font-size: 15px; }
+.text-sm {
+  font-size: var(--font-size-sm);
 }
 
+.text-md {
+  font-size: var(--font-size-md);
+}
+
+.text-lg {
+  font-size: var(--font-size-lg);
+}
+
+.text-xl {
+  font-size: var(--font-size-xl);
+}
+
+.text-primary {
+  color: var(--primary-color);
+}
+
+.text-white {
+  color: var(--white);
+}
+
+.bg-primary {
+  background-color: var(--primary-color);
+}
+
+.p-sm {
+  padding: var(--spacing-sm);
+}
+
+.p-md {
+  padding: var(--spacing-md);
+}
+
+.p-lg {
+  padding: var(--spacing-lg);
+}
+
+.mt-sm {
+  margin-top: var(--spacing-sm);
+}
+
+.mt-md {
+  margin-top: var(--spacing-md);
+}
+
+/* ✅ Responsive (móvil primero) */
+@media (max-width: 900px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  body {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  body {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+}

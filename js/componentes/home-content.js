@@ -12,12 +12,15 @@ class HomeContent extends HTMLElement {
     sessionStorage.setItem('homeTipo', tipo); // mantiene la coherencia
 
     this.innerHTML = `
-      <section class="home home--personas" style="display: ${tipo === 'personas' ? 'block' : 'none'};">
-        <h2>Contenido para Personas</h2>
-      </section>
-
-      <section class="home home--empresas" style="display: ${tipo === 'empresas' ? 'block' : 'none'};">
-        <h2>Contenido para Empresas</h2>
+      <section class="home home--${tipo}">
+        <div class="home__header">
+          <div class="home__header__content">
+            <h1>Protegemos lo que más valoras</h1>
+            <p>Somos una agencia, encaminada a orientar profesionalmente en el sector asegurador a nuestros asegurados ofreciendo soluciones que garanticen la protección de su patrimonio y estabilidad de sus colaboradores </p>
+            <button>Conocenos</button>
+          </div>
+          <img src="./img/home-${tipo}.png" alt="Imagen de cabecera" >
+        </div>
       </section>
     `;
   }
