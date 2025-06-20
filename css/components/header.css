@@ -382,8 +382,9 @@ p {
   /* Botón Cotiza ya en mobile, fijo al pie */
   .header__mobile-modal .header__button {
     margin: 1rem;
-    width: calc(100% - 2rem);
+    width: 95%;
     align-self: center;
+    padding: 3% 0;
   }
 }
 

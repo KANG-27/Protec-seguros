@@ -161,12 +161,16 @@ class HeaderComponent extends HTMLElement {
     btnPersonas.addEventListener('click', () => {
       btnPersonas.classList.add('active');
       btnEmpresas.classList.remove('active');
+      sessionStorage.setItem("homeTipo", "personas")
+      window.location.hash = '#personas';
       renderCategorias('personas');
       renderIntro();
     });
     btnEmpresas.addEventListener('click', () => {
       btnEmpresas.classList.add('active');
       btnPersonas.classList.remove('active');
+      sessionStorage.setItem("homeTipo", "empresas")
+      window.location.hash = '#empresas';
       renderCategorias('empresas');
       renderIntro();
     });
@@ -198,6 +202,7 @@ class HeaderComponent extends HTMLElement {
             <button id="mobileEmpresas">Empresas</button>
           </div>
           <div id="mobileContent" class="mobile__content"></div>
+          <button class="header__button" id="btnCotiza">Cotiza ya</button>
         </div>
       </header>
     `;
@@ -269,12 +274,14 @@ class HeaderComponent extends HTMLElement {
       tabPers.classList.add('active');
       tabEmp.classList.remove('active');
       sessionStorage.setItem("homeTipo", "personas")
+      window.location.hash = 'personas';
       renderMobileSection('personas');
     });
     tabEmp.addEventListener('click', () => {
       tabEmp.classList.add('active');
       tabPers.classList.remove('active');
       sessionStorage.setItem("homeTipo", "empresas")
+      window.location.hash = '#empresas';
       renderMobileSection('empresas');
     });
 
