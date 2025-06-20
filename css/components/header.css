@@ -327,6 +327,7 @@ p {
     margin-bottom: 0.75rem;
   }
 
+
   .mobile__section-header {
     display: flex;
     justify-content: space-between;
@@ -336,6 +337,7 @@ p {
     padding: 0.75rem 1rem;
     border-radius: 8px;
     cursor: pointer;
+    /* transition: border-radius 0.2s ease; */
   }
 
   .mobile__section-header .arrow-down {
@@ -356,9 +358,13 @@ p {
     border-radius: 0 0 8px 8px;
   }
 
+  .mobile__section.open .mobile__section-header {
+    border-radius: 8px 8px 0 0;
+  }
+
   .mobile__section.open .mobile__section-body {
     /* suficiente para todo el contenido */
-    max-height: max-content;
+    max-height: 800px;
   }
 
   .mobile__section-body a,
@@ -398,11 +404,13 @@ p {
 .seguros__categorias-button.active .icon-active {
   display: inline;
 }
+
 /* Flechas de toggle */
 .arrow-down {
   display: inline-block;
   transition: transform 0.3s ease;
 }
+
 .arrow-down.rotate {
   transform: rotate(180deg);
 }
@@ -415,7 +423,7 @@ p {
   left: 0;
   width: 100%;
   background: white;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   transform: translateY(-10px);
   opacity: 0;
@@ -423,6 +431,7 @@ p {
   transition: transform 0.3s ease, opacity 0.3s ease;
   z-index: 100;
 }
+
 .header__content-seguros.show,
 .header__content-pagos.show {
   transform: translateY(0);
@@ -439,6 +448,7 @@ p {
   cursor: pointer;
   transition: background 0.3s, color 0.3s;
 }
+
 .header__section-button.active,
 .header__section-button:hover {
   background: #008EFF;
@@ -457,19 +467,24 @@ p {
   cursor: pointer;
   transition: background 0.3s, color 0.3s;
 }
+
 .seguros__categorias-button .icon-default {
   display: inline;
 }
+
 .seguros__categorias-button .icon-active {
   display: none;
 }
+
 .seguros__categorias-button.active {
   background: #008EFF;
   color: #fff;
 }
+
 .seguros__categorias-button.active .icon-default {
   display: none;
 }
+
 .seguros__categorias-button.active .icon-active {
   display: inline;
 }
@@ -481,6 +496,7 @@ p {
   transform: translateY(10px);
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
+
 .seguros__planes-list.show,
 .seguros__intro-text.show {
   opacity: 1;
@@ -497,8 +513,10 @@ p {
   border-radius: 4px;
   text-decoration: none;
   font-weight: bold;
+  text-align: center;
   transition: opacity 0.3s ease;
 }
+
 .pago__boton:hover {
   opacity: 0.8;
 }

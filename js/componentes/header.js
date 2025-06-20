@@ -20,7 +20,7 @@ class HeaderComponent extends HTMLElement {
     this._isMobile = isMobile;
     this.innerHTML = '';
     if (isMobile) this._renderMobile();
-    else          this._renderDesktop();
+    else this._renderDesktop();
   }
 
   // ─── DESKTOP ─────────────────────────────────────────────────────────────
@@ -55,7 +55,9 @@ class HeaderComponent extends HTMLElement {
         </div>
 
         <div class="header__content-pagos">
-          <div class="pagos__layout" id="pagosContainer"></div>
+        <h2>Botones de pago</h2>
+          <div class="pagos__layout" id="pagosContainer">
+          </div>
         </div>
       </header>
     `;
@@ -63,11 +65,11 @@ class HeaderComponent extends HTMLElement {
   }
 
   _hookDesktop() {
-    const data      = this.dataSeg;
+    const data = this.dataSeg;
     const pagosData = this.dataPag.botonesPago;
 
-    const toggleSeg  = this.querySelector('#btnToggleMenu');
-    const togglePag  = this.querySelector('#btnTogglePagos');
+    const toggleSeg = this.querySelector('#btnToggleMenu');
+    const togglePag = this.querySelector('#btnTogglePagos');
     const segContent = this.querySelector('.header__content-seguros');
     const pagContent = this.querySelector('.header__content-pagos');
 
@@ -75,19 +77,19 @@ class HeaderComponent extends HTMLElement {
     const btnEmpresas = this.querySelector('#btnEmpresas');
 
     const categoriasContainer = this.querySelector('#categorias');
-    const planesContainer     = this.querySelector('#planes');
-    const pagosContainer      = this.querySelector('#pagosContainer');
+    const planesContainer = this.querySelector('#planes');
+    const pagosContainer = this.querySelector('#pagosContainer');
 
     // Render botones de pago
     const renderPagos = () => {
       pagosContainer.innerHTML = '';
-      for (let name in pagosData) {
-        const { color, link } = pagosData[name];
+      for (let butonPago in pagosData) {
+        const { color, link, nombre } = pagosData[butonPago];
         const a = document.createElement('a');
         a.href = link; a.target = '_blank';
         a.className = 'pago__boton';
         a.style.backgroundColor = color;
-        a.textContent = name;
+        a.textContent = nombre;
         pagosContainer.appendChild(a);
       }
     };
@@ -203,18 +205,18 @@ class HeaderComponent extends HTMLElement {
   }
 
   _hookMobile() {
-    const data      = this.dataSeg;
+    const data = this.dataSeg;
     const pagosData = this.dataPag.botonesPago;
 
-    const btnOpen  = this.querySelector('#btnMobileToggle');
+    const btnOpen = this.querySelector('#btnMobileToggle');
     const btnClose = this.querySelector('#btnMobileClose');
-    const modal    = this.querySelector('.header__mobile-modal');
-    const tabPers  = this.querySelector('#mobilePersonas');
-    const tabEmp   = this.querySelector('#mobileEmpresas');
-    const content  = this.querySelector('#mobileContent');
+    const modal = this.querySelector('.header__mobile-modal');
+    const tabPers = this.querySelector('#mobilePersonas');
+    const tabEmp = this.querySelector('#mobileEmpresas');
+    const content = this.querySelector('#mobileContent');
 
     // Abrir/Cerrar modal con animación CSS
-    btnOpen.addEventListener('click',  () => modal.classList.add('show'));
+    btnOpen.addEventListener('click', () => modal.classList.add('show'));
     btnClose.addEventListener('click', () => modal.classList.remove('show'));
 
     // Genera acordeones
@@ -223,11 +225,11 @@ class HeaderComponent extends HTMLElement {
       sec.className = 'mobile__section';
       sec.innerHTML = `
         <div class="mobile__section-header">
-          ${title} <span class="arrow-down"><svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" width="15" fill="#FFFFFF"><path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z"/></svg></span>
+          ${title} <span class="arrow-down"><svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" width="15" fill="#008EFF"><path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z"/></svg></span>
         </div>
         <div class="mobile__section-body"></div>
       `;
-      const hdr  = sec.querySelector('.mobile__section-header');
+      const hdr = sec.querySelector('.mobile__section-header');
       const body = sec.querySelector('.mobile__section-body');
       hdr.addEventListener('click', () => {
         const open = sec.classList.toggle('open');
@@ -240,7 +242,7 @@ class HeaderComponent extends HTMLElement {
           a.target = '_blank';
           a.className = 'pago__boton';
           a.style.backgroundColor = pagosData[n].color;
-          a.textContent = n;
+          a.textContent = pagosData[n].nombre;
           body.appendChild(a);
         }
       } else {
@@ -266,11 +268,13 @@ class HeaderComponent extends HTMLElement {
     tabPers.addEventListener('click', () => {
       tabPers.classList.add('active');
       tabEmp.classList.remove('active');
+      sessionStorage.setItem("homeTipo", "personas")
       renderMobileSection('personas');
     });
     tabEmp.addEventListener('click', () => {
       tabEmp.classList.add('active');
       tabPers.classList.remove('active');
+      sessionStorage.setItem("homeTipo", "empresas")
       renderMobileSection('empresas');
     });
 
