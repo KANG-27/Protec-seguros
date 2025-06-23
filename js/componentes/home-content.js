@@ -11,6 +11,7 @@ class HomeContent extends HTMLElement {
 
     sessionStorage.setItem('homeTipo', tipo); // mantiene la coherencia
 
+
     this.innerHTML = `
       <section class="home home--${tipo}">
         <div class="home__header">
@@ -21,6 +22,8 @@ class HomeContent extends HTMLElement {
           </div>
           <img src="./img/home-${tipo}.png" alt="Imagen de cabecera" >
         </div>
+        <h3 class="titulo-servicios">Servicios</h3>
+        <services-carrousel></services-carrousel>
       </section>
     `;
   }
