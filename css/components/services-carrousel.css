@@ -2,7 +2,7 @@
     --primary-color: #008EFF;
     --text-color: #333;
     --white: #fff;
-    --card-width: 50%;
+    --card-width: 60%;
     --card-gap: 1rem;
     --peek-size: 40px;
 }
@@ -60,6 +60,9 @@ p {
 /* Carrusel */
 .carousel {
     width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .carousel__viewport {
@@ -84,12 +87,14 @@ p {
     flex-direction: column;
     /* align-items: center; */
     padding: 1rem;
+    height: 500px;
+    justify-content: space-around
 }
 
 .card__image {
     width: 100%;
-    height: 120px;
-    object-fit: cover;
+    height: 245px;
+    object-fit: scale-down;
     border-top-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
 }
@@ -151,9 +156,85 @@ p {
     -webkit-line-clamp: 3;
 }
 
+
+.services-carrousel__button {
+    /* Estructura tipo card */
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #fff;
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 1rem 1.25rem;
+    font-weight: bold;
+    color: var(--text-color);
+    cursor: pointer;
+    gap: 40px;
+    padding-left: 10%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease, color 0.3s ease;
+}
+
+/* Hover: elevación y ligero levantamiento */
+.services-carrousel__button:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-3px);
+}
+
+/* Estado activo: fondo principal y texto blanco */
+.services-carrousel__button.active {
+    background: var(--primary-color);
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Icono en la parte superior */
+.services-carrousel__button .btn-icon {
+    display: block;
+}
+
+.services-carrousel__button .btn-icon svg {
+    width: 80px;
+    height: 80px;
+}
+
+.services-carrousel__button {
+    color: var(--primary-color);
+    /* color por defecto */
+}
+
+.services-carrousel__button:hover,
+.services-carrousel__button.active {
+    color: #fff;
+    /* al hover o active el texto y el SVG heredan blanco */
+}
+
+
+/* Texto debajo del icono */
+.services-carrousel__button .btn-text {
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.btn-text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
 @media (max-width: 768px) {
     .carousel {
         width: 100%;
+    }
+
+    .services-carrousel__button .btn-icon svg {
+        width: 50px;
+        height: 50px;
+    }
+
+    .services-carrousel__button {
+        gap: 10px;
     }
 
     .services-carrousel__content {
@@ -179,9 +260,7 @@ p {
     .carousel__viewport {
         width: 100%;
     }
-}
 
-@media (max-width: 650px) {
     .services-carrousel__buttons {
         display: grid;
         grid-template-columns: repeat(2, 1fr);

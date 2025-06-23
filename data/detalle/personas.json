@@ -1,658 +1,670 @@
 {
-    "Protec salud": [
-        {
-            "nombre": "Póliza de Salud",
-            "descripcion": "Con un Seguro de Salud permaneces tranquilo porque sabes que tienes acceso ilimitado a servicios que no solo complementan tu Plan Obligatorio, sino que además te permiten disfrutar de atenciones exclusivas como consultar directamente a un médico especialista o realizar exámenes de imagenología o radiología, sin necesidad de esperar una autorización por parte del médico general. ¿Y eso cómo te beneficia?, sencillo. tienes cobertura de alta calidad en ayudas diagnósticas de laboratorio, imagenología o radiología,​ prótesis y trasplantes,  además cuentas con tratamientos ambulatorios en caso de que requieras una diálisis o de que seas diagnosticado con enfermedades de alto costo​.",
-            "imagen": "img/poliza-salud.jpg",
-            "incluye": [
-                "Hospitalizaciones psiquiátricas",
-                "Transplantes",
-                "Cirugía ambulatoria y tratamiento de fracturas, luxaciones y esquinces",
-                "Tratamiento ambulatorio por cáncer o leucemia",
-                "Tratamiento por hemodiálisis y diálisis peritoneal",
-                "Tratamiento por VIH - SIDA",
-                "Unidad de cuidados intensivos y especiales",
-                "Gastos Hospitalarios",
-                "Habitación individual",
-                "Exámenes de diagnóstico",
-                "Terapias físicas",
-                "Nebulizaciones, terapias del lenguaje, respiratorias, cardiacas, ortópticas, linfáticas, pleóticas",
-                "Medicamentos por tratamientos ambulatorios para las enfermedades enunciadas en las condiciones generales",
-                "Evaluación neuro psiquiátrica o neuro psicológica",
-                "Escleroterapia hasta 10 sesiones por vigencia",
-                "Urgencias por enfermedad o accidente fuera del país a través de asistencia en viaje",
-                "Hospitalizaciones y cirugías programadas fuera del país",
-                "Afiliación y mantenerse activos EPS Regimen Contributivo",
-                "Tratamientos ambulatorios por cáncer y leucemia programados en el exterior",
-                "Medicamentos secundarios a cáncer o leucemia",
-                "Asistencia en viaje",
-                "Tratamientos específicos fuera de hospital o clínica",
-                "Puvaterapias",
-                "Terapias de acondicionamiento físico",
-                "Terapia familiar",
-                "Terapia alternativa acupuntura",
-                "Tratamiento por hemodiálisis y diálisis peritoneal programado en el exterior",
-                "Examenes de diagnóstico radilógicos programados en el exterior",
-                "Maternidad y atención del parto",
-                "EMD",
-                "Coberturas para recién nacido, sin cobro hasta la renovación",
-                "Renta por días de hospitalización o cirugía",
-                "Medicamentos secundarios ambulatorios a quimio, radio y hormonoterapia",
-                "Infiltraciones ortopedicas, intra timpanicas, dermatológicas",
-                "Medicamentos pre y pos hospitalarios u quirurgícos, fracturas, luxaciones y esquinces",
-                "Urgencias por accidente",
-                "Gastos funerarios",
-                "Donación de órganos",
-                "Consulta médica externa",
-                "Enfermera en casa, luego de cirugías u hospitalizaciones",
-                "Urgencias por enfermedad",
-                "Plan de atención médica hospitalaria en casa",
-                "Laboratorios clínicos",
-                "Gastos de prótesis",
-                "Urgencias odontológicas por accidentes"
-            ],
-            "no_incluye": [
-                "Cirugías estéticas",
-                "Tratamientos experimentales"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/salud-grafico.png",
-                    "titulo": "El 65% de las personas no están aseguradas",
-                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
-                }
-            ]
-        },
-        {
-            "nombre": "Póliza de endermedades graves",
-            "descripcion": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para que obtengas un descuento por incluir a tu pareja, padres e hijos. Con este seguro consolidas el capital necesario para no perder tu calidad de vida en caso de sufrir alguna enfermedad grave como cáncer, alzhéimer, párkinson, entre otras​ que son parte de la cobertura, por eso te sientes protegido y tranquilo​. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-            "imagen": "img/renta-diaria.jpg",
-            "incluye": [
-                "Cáncer y leucemia",
-                "Infarto del mi​ocardio",
-                "Enfermedad cerebrovascular",
-                "Insuficiencia renal crónica",
-                "Parálisis de miembros superiores o inferiores​",
-                "Pérdida de miembros superiores o inferiores",
-                "Pérdida total de la audición",
-                "Pérdida total de la visión",
-                "Esclerosis múltiple",
-                "Estado de coma",
-                "Revascularización arterial coronaria ",
-                "Trasplante de órgano mayor",
-                "Traumatismo mayor de cabeza",
-                "Válvula del corazón  ",
-                "Ree​mplazo total de válvula del corazón",
-                "Tumor cerebral Benigno",
-                "Esclerosis                             ",
-                "Esclerosis lateral amiotrófica",
-                "Enfermedad de Alzheimer",
-                "Parkinson  ",
-                "Enfermedad de Parkinson​"
-            ],
-            "no_incluye": [
-                "Enfermedades preexistentes",
-                "Accidentes bajo efectos de alcohol"
-            ],
-            "estadisticas": []
-        },
-        {
-            "nombre": "Póliza plan renta diaria",
-            "descripcion": "Sabemos el impacto económico que te generan los gastos que vienen con una hospitalización. transporte de familiares, alimentación de visitantes, gastos médicos, entre otros, por eso te ofrecemos un plan que te permitirá recuperar total o parcialmente los ingresos que dejas de recibir en ese período.​ El Seguro Plan Renta Diaria funciona de forma sencilla. imagina que aseguras un valor de $50 000 diarios y te hospitalizan diez días. Cuando te den de alta, te dare​mos una indemnización por quinientos mil pesos para que, con ese reembolso, reduzcas los ga​stos que tuviste. El apoyo no solo aplica en ese caso sino también en cirugías ambulatorias o partos.​ Ten en cuenta que el máximo de días consecutivos de hospitalización para contar con el respaldo es de 90, pero puedes obtener una cobertura opcional para que recibas dinero hasta por 180 días, siempre y cuando estén avalados en tu historia clínica. ¿Qué esperas? Si tienes 59 años o menos, este plan es para ti.​",
-            "imagen": "img/renta-diaria.jpg",
-            "incluye": [
-                "Recibir una indemnización diaria en caso de hospitalización, cirugía ambulatoria o parto.",
-                "Contar con un respaldo adicional al que te brinda el POS o un plan complementario de salud.",
-                "Cuidar tus finanzas personales por los ingresos que dejarás de percibir mientras estés hospitalizado o en recuperación.",
-                "Indemnización por cada día que estés hospitalizado.",
-                "Indemnización por cada cirugía ambulatoria."
-            ],
-            "no_incluye": [
-                "Enfermedades preexistentes",
-                "Accidentes bajo efectos de alcohol"
-            ],
-            "estadisticas": []
-        },
-        {
-            "nombre": "Salud para todos",
-            "descripcion": "Es un seguro de salud que cuenta con diferentes planes que puedes elegir según tus necesidades y capacidad de pago. De acuerdo al que elijas podrás o no compartirlo con quien prefieras y acceder a diferentes coberturas y beneficios.necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-            "imagen": "img/renta-diaria.jpg",
-            "incluye": [
-                "Acceso directo a un grupo de especialistas, incluidos profesionales de salud mental, dependiendo del plan que elijas.",
-                "Servicios de imágenes diagnósticas.",
-                "Atención virtual prioritaria.",
-                "Atención médica domiciliaria.",
-                "Urgencias odontológicas domiciliarias."
-            ],
-            "no_incluye": [
-                "Enfermedades preexistentes",
-                "Accidentes bajo efectos de alcohol"
-            ],
-            "estadisticas": []
-        }
-    ],
-    "Protec personas": [
-        {
-            "nombre": "Seguro de Vida",
-            "descripcion": "Obtener y conservar tu independencia económica ante cualquier imprevisto es importante para ti​, al igual que contar con un ahorro para cumplir tus sueños ​y los de tus seres queridos.​ Por eso, con nuestro seguro de vida Plan vive estás tranquilo porque proteges tus ingresos, puedes contratar un fondo de ahorro para cumplir tus proyectos de corto plazo o complementarlo con el Seguro de Pensión para mantener tu calidad de vida en la etapa de retiro. Así, te aseguras de disfrutar tu vida, alcanzando todas tus metas y compartiendo la vida que deseas con tus seres queridos. Cualquier persona desde los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que más se ajustan a su momento y estilo de vida.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Ofrecer un bono por hospitalización.",
-                "Respaldo económico en caso de que seas diagnosticado con enfermedades graves.",
-                "Respaldo económico en caso de que seas diagnosticado con cáncer.",
-                "Le damos a tus familiares un auxilio de exequias.",
-                "Posibilidad de ahorro.",
-                "Devolución de dinero si decides cancelar el seguro en algún momento.",
-                "Posibilidad de asegurarte de por vida mediante un único pago.",
-                "Darles a tus beneficiarios un dinero adicional en caso de muerte accidental.",
-                "Darte dinero en caso de invalidez y desmembramiento por accidente.",
-                "Entregar dinero en caso de invalidez y desmembramiento por enfermedad.",
-                "Te reembolsamos los gastos médicos derivados de accidentes (ideal si no tienes EPS)."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de renta vitalicia",
-            "descripcion": "Te garantizamos una suma de dinero mensual desde el momento en que te pensiones (de acuerdo con las condiciones que elijas o te apliquen) para que, pase lo que pase, siempre vivas con la certeza de bienestar para ti y ​tu familia.​ Sabemos lo importante que ​es tu calidad de vida y la de tus seres queridos, por eso contamos con diferentes alternativas para acompañarte cuando culmines tu etapa laboral o en la realización de tus sueños en cualquier momento​. Ingresa a cada ​plan que te ofrecemos y escoge el que más se acomode a tus necesidades y metas.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Mesada pensional",
-                "Auxili​o fu​nerario",
-                "Garantizar tu calidad de vida.",
-                "Recibir mesada mensual  Recibir una mesada mensual desde el moment",
-                "Dejarle a tus beneficiarios una mesada en caso de que fallezcas. "
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de educación",
-            "descripcion": "Con el Seguro de Educación estructuras un plan de pagos para construir un capital con el que puedas cubrir los costos del plan educativo q​ue quieras asegurar para ti o para tus seres queridos en el futuro. El seguro te permite cubrir gastos de matrícula y manutención​ para estudios primarios, secundarios, no convencionales y universitarios, ​ya sean de pregrado o posgrado. También cubre educación en el exterior como viajes de intercambio. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Lograr las metas definidas para ti o tus seres queridos.",
-                "Estructurar un plan de pag​os para construir un capital para estudio.",
-                "Tener un seguro libre de cualquier obligación financiera.",
-                "Acumular el respaldo económico que te desembolsaremos en la matrícula.  ",
-                "Costos de matrícula"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de pensión",
-            "descripcion": "Gracias al Seguro de Pensión que ofrece Protec Seguros, sus empleados podrán adquirir una cultura de ahorro y al mismo tiempo asegurar los ingresos que en unos años complementarán su pensión. Con esta alternativa, tendrán la posibilidad de garantizar un capital de respaldo para que él o sus seres queridos disfruten de calidad de vida en el futuro. El empleado define por cuánto tiempo quiere pagar y cuál es la periodicidad más cómoda una suma única o a través de cuotas mensuales de mínimo $ 100.000 pesos, o de sus equivalentes trimestrales, semestrales o anuales. Tenga en cuenta que el ingreso mensual que recibirá no pierde valor en el tiempo y es garantizado, el riesgo financiero lo asumimos nosotros. Además, su empleado es quien elige por cuánto tiempo prefiere recibir sus desembolsos, y si los anticipa a su pensión, o simplemente espera a que llegue y la complementa.​",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Construir un capital para complementar su pensión",
-                "Disfrutar su futuro con calidad de vida.",
-                "Cubrir los gastos que él o sus seres queridos requieran en el futuro."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro accidentes",
-            "descripcion": "Sabemos que el riesgo está en todas partes y tenemos un seguro con el que te sentirás más protegido, sea porque te gusta salir en tu bicicleta, conduces tu carro con frecuencia o caminas tranquilo por un parque.Con el Seguro de Accidentes Personales te indemnizamos a ti o a tus beneficiarios en caso de que presentes alguna invalidez o fallezcas con motivo de una situación accidental. También tienes la posibilidad de contratar coberturas adicionales que complementan tu tranquilidad. Si te incapacitan, recibes una renta por cada día que no puedas trabajar o realizar tus actividades cotidianas con normalidad. Adicionalmente, te reembolsamos los gastos médicos en que incurras a causa de un accidente y que tu EPS o tu Seguro de Salud no cubran.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Estar tranquilo porque tus beneficiarios recibirán una indemnización en caso de que fallezcas en un accidente o como consecuencia de este.",
-                "Asegurarte hasta los 70 años  Recibir una renta diaria durante el tiempo que tarde tu recuperación para que tú y tus seres queridos ​no pierdan su calidad de vida.",
-                "Darles un respaldo a tus beneficiarios  Contar con apoyo económico si quedas con una invalidez o desmembración a causa de un accidente.",
-                "Recibir reembolsos  Tener la posibilidad de recibir reembolsos por los gastos médicos en que incurras a consecuencia de un"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro mascotas",
-            "descripcion": "Sabemos que tus mascotas son una parte fundamental de tu Familia. Con esta solución Protec Seguros te respalda protegiendo tu patrimonio, en caso de que este se vea afectado por cualquier evento relacionado con tus perros o gatos, y te acompaña satisfaciendo tus necesidades y las de tus mascotas, a través de la prestación de diferentes servicios, para que puedas cuidarlos, atenderlos y consentirlos como se lo merecen.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Guardería en caso de hospitalización o viaje del dueño",
-                "Informes de vacunas para tu mascota",
-                "Asistencia legal en caso de presentar daños a terceros",
-                "Orientación nutricional veterinaria",
-                "Baño para tu mascota",
-                "Entrega de medicamentos a domicilio",
-                "Orientación psicológica al dueño por el fallecimiento de su mascota",
-                "Refuerzo antirrábico anual para tu mascota",
-                "Referencia y coordinación de servicios para tu mascota",
-                "Paseador canino"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        }
-    ],
-    "Protec movilidad": [
-        {
-            "nombre": "Plan utilitario y pesado",
-            "descripcion": "​Si usas tu vehículo como una fuente de ingresos y transportas productos o personas, te recomendamos tener el Plan Utilitarios y Pesados de Protec Seguros. Con este seguro, diseñado para carros utilitarios livianos (capacidad de carga inferior a 2.5 toneladas) y pesados (capacidad de carga superior a 2.5 toneladas), te proteges frente a los daños que se puedan generar en carretera o mientras desarrollas tu actividad económica.Con nosotros recibes acompañamiento permanente no solo en caso de accidentes o robos, sino también en temas de asistencia y prevención, facilitándote la operación en el día a día y ahorrando tiempo y dinero.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Accidentes y daños a terceros",
-                "Asegura tu mercancia",
-                "Protege tu conductor",
-                "Cobertura contra accidentes",
-                "Daño a terceros",
-                "Asistencia en carretera ",
-                "Envio de repuestos",
-                "Asistencia juridica",
-                "Taller movil",
-                "Servicios de desplazamiento"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de autos",
-            "descripcion": "Por medio de tu movilidad realizas las actividades de tu vida cotidiana. Por eso, estamos contigo para que te desplaces de forma segura sintiéndote acompañado y ahorrando tiempo y dinero. En Protec Seguros tenemos soluciones que se adaptan a los medios que escojas para tus re​corridos, reconociendo que, más que asegurar tu vehículo, cuidamos tu vida, la de quienes te encuentras en la vía y el patrimonio que has construido. Todos nuestros planes te brindan el pago a los afectados por los daños que les causes en un choque o accidente (si tuviste alguna responsabilidad).necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
-                "Pagar por los gastos necesarios para trámites de defensa judicial",
-                "Conductor profesional cuando no puedas manejar por una enfermedad imprevista",
-                "Te informamos sobre el estado de las vías",
-                "Asesoría jurídica vía telefónica o en el sitio del accidente",
-                "Acompañamiento ante el tránsito o centro de conciliación",
-                "Servicio de grúa en caso de varada o accidente",
-                "Taller móvil y cerrajería",
-                "Conductor elegido",
-                "Transporte por lesiones o enfermedad",
-                "Reponerte tu carro en caso de pérdida total o parcial por hurto",
-                "Reponerte tu carro en caso de pérdida total o parcial por daños",
-                "Alternativas de movilidad",
-                "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)",
-                "Seguro de accidentes personales al conductor",
-                "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro",
-                "Gastos de traspaso en caso de pérdida total por daños o hurto",
-                "Reemplazo de llaves en caso de que se pierdan o dañen",
-                "Reponerte accesorios y equipos especiales en caso de pérdida",
-                "''*Según los detalles en la inspección de asegurabilidad del carro''",
-                "Protección al cargador"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de motos",
-            "descripcion": "Aseguramos motos de alto cilindraje (mayor a 250 c.c) y bajo cilindraje (menor o igual a 250 c.c.). Para cuidar la tuya, cuentas con tres revisiones preventivas gratis al año y las asesorías que necesites con un mecánico experto. Esto se brinda en el Centro de Servicios Motos Protec Seguros y sus aliados o, si prefieres, de forma virtual, También tienes un peritaje gratuito. Si estás de viaje en carretera y te chocas o varas y tu moto es de alto cilindraje, tienes servicio de grúa de amplio alcance para devolverte o llegar a tu destino. Esto también aplica si tu moto es eléctrica.​",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Pagar por los gastos necesarios para trámites de defensa judicial.",
-                "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
-                "Te informamos sobre el estado de las vías.",
-                "Carro taller para imprevistos como pinchadas de llanta o daño de batería.",
-                "Consultas gratuitas mecánicas a expertos antes de un viaje (en Motos Protec Seguros Bogotá, Cali y Medellín).",
-                "Asesoría jurídica vía telefónica o en el sitio del accidente.",
-                "Acompañamiento ante el tránsito o centro de conciliación."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de bicis y patinetas",
-            "descripcion": "En Protec Seguros te acompañamos si tu bici o patineta tiene una pérdida total por robo o daños y si tienes un incidente o sufres un accidente estando solo contra un objeto o persona. Para ello, activamos las asistencias que tenemos a tu disposición. Además, cuidamos de tu vehículo el Centro de Servicios Protec Seguros o de forma virtual con la asesoría de nuestros expertos para orientarte en temas de postura, acondicionamiento físico y consultoría mecánica. Si eres asegurado de Protec Seguros de cualquier solución, recibes dos alistamientos gratuitos para bici durante el año y 50 % de descuento en bike fit. Esto también aplica si tu bici es eléctrica.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Daños a terceros.",
-                "Accidentes personales.",
-                "Pérdidas totales por daños o hurto.",
-                "Renta diaria por hospitalización.",
-                "Asistencia."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de viaje",
-            "descripcion": "En Protec Seguros te acompañamos si durante tu viaje tienes un accidente o una enfermedad, coordinando los servicios médicos que requieras. Si no te sientes bien, recibe atención médica por medio de llamada telefónica desde donde estés para ser atendido por un experto y, de acuerdo con tu estado de salud, te orientamos de la mejor manera. Te pagamos el valor asegurado si afrontas alguna de las siguientes situaciones se te pierde o demora tu equipaje, te roban tus documentos o cancelas tu viaje. Por el WhatsApp +57 315 275 7888 opciones 1-4 puedes hacer estas reclamaciones y pedir asistencia. El seguro funciona en el mundo y te cubre en casos de emergencia justificada. Asimismo, asume el hospedaje y desplazamiento tuyo y de un acompañante si debes extender el viaje por alguna situación médica. Si mueres, tu cuerpo es trasladado al lugar donde se realicen las exequias.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Equipaje",
-                "Acompañamiento",
-                "Cancelacion de vuelos o viaje",
-                "Gastos por robo de documentos"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Plan muévete libre",
-            "descripcion": "Caminando, en transporte público masivo, taxi, bici, patineta o moto, con el Plan Muévete Libre estás tranquilo porque te protegemos a ti como persona. Muévete como más te guste con el respaldo de un seguro que te permite sentirte acompañado y ahorrar tiempo y dinero. Además de que estás asegurado cuando salgas a pasear con tu mascota, pues cubrimos los daños que tanto tú como ella pueden ocasionar a otros. De esa manera, y porque sabemos que necesitas moverte, cuidamos tu vida y tu salud en cada trayecto para que siempre, con Protec Seguros, te asegures de vivir.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Daño a terceros",
-                "Accidentes personales",
-                "Gastos medicos por accidente",
-                "Gastos por cirugia o fractura",
-                "Renta diaria por hospitalización",
-                "Hurto documentos"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Responsabilidad civil familiar",
-            "descripcion": "En la vida diaria estás expuesto a un sin número de riesgos que no pu​edes evitar, si en alguno de ellos tú o tu familia ocasionan daños a terceras personas, puedes ver afectado tu patrimonio y tranquilidad, pues es necesario indemnizar a la persona involucrada, ya sea por un daño físico o moral, a una propiedad u objeto.​ ​El Seguro de Responsabilidad Civil Familiar, fue creado pensando en ti y en tu familia, para protegerte en situaciones cotidianas y ofrecerte un r​espaldo de defensa judicial y gastos médicos de urgencia para situaciones en las que más lo necesites.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Tu mascota se escapa y muerde un niño que está pasando por la casa. ",
-                "Tu hijo está estudiando en el exterior y va a un centro comercial, por accidente tropieza con una estantería y daña los productos. ",
-                "Tu lavadora se daña e inunda la casa de tu vecino. ",
-                "Tu hijo jugando fútbol quiebra un vidrio en el edificio del frente. ",
-                "Por accidente tu dron cae sobre una persona o un carro. ​",
-                "Daños a terceros",
-                "Viajes al exterior",
-                "Uso de drones",
-                "Accidente laboral",
-                "Gastos de defensa",
-                "Gastos médicos de urgencias ",
-                "Daños causados por tu mascota"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de responsabilidad civil profesional",
-            "descripcion": "La Responsabilidad Civil Profesional es aquella que surge cuando le causas un daño a un tercero en el ejercicio de tu actividad profesional u oficio. ​Cuando ejerces una profesión eres responsable por los daños que puedan sufrir los terceros como consecuencia de errores u omisiones que cometas en la prestación del servicio, sin importar la profesión que tengas.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Resposabilidad Civil Profesional",
-                "Gastos de defensa por reclamaciones​",
-                "Resposabilidad Civil Profesional",
-                "Gastos de defensa"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de Responsabilidad Civil para Profesionales de la Salud",
-            "descripcion": "Cuando ejerces tu profesión estás obligado a preservar los derechos de tus pacientes como la vida, la salud, las buenas condiciones físicas o mentales y la integridad corporal. Cuando vulneras alguno de estos derechos, tu paciente o los afectados pueden reclamar una indemnización. Por esto en Protec Seguros hemos creado el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Responsabilidad civil profesional ​",
-                "Errores y omisiones en dictámenes periciales ",
-                "Responsabilidad civil por fallas en el tratamiento de datos sensibles o personales",
-                "Gastos de defensa ​por reclamaciones civiles o de tribunal de ética médica"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de Responsabilidad Civil Profesional para Veterinarios",
-            "descripcion": "¡El concepto de familia ha cambiado y ahora las mascotas juegan un papel más importante en nuestras vidas! En Protec Seguros somos conscientes de los riesgos a los que estás expuesto como médico, por eso contamos con el Seguro de Responsabilidad Civil Profesional para Veterinarios, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.​",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Responsabilidad civil profesional",
-                "Gastos de defensa por reclamaciones civiles"
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro colectivo de Vida (Vida Grupo)",
-            "descripcion": "Uno de sus mayores intereses como empresario es desarrollar acciones que le permitan elevar y mantener la calidad de vida de su recurso humano y su grupo familiar. Con el Seguro Colectivo de Vida, se respirará en su empresa un aire social y familiarmente responsable, asimismo, se verá un mejoramiento en el desempeño de sus empleados y en los resultados obtenidos. Este seguro tiene como beneficio para los asegurados un menor costo de la póliza por tratarse de una colectiva y la posibilidad de extenderlo a su grupo familiar, lo que genera en ellos un mayor sentido de pertenencia por la empresa. Tenga en cuenta además, que el respaldo económico que recibirá el empleado y su grupo familiar, minimiza la necesidad de acudir a temas legales con la empresa.  Gracias a que el Seguro de Vida, se convierte en un capital de respaldo inmediato para cubrir eventos inesperados, se disminuyen solicitudes de préstamos y niveles de endeudamiento por parte de sus empleados, contribuyendo a mantener los niveles de productividad y sostenimiento de la empresa. ​",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Contar con un capital de respaldo inmediato para cubrir eventos inesperados",
-                "Tener la posibilidad de extender la protección a su grupo familiar.",
-                "Tener una tarifa estable a lo largo de la vida laboral."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de exequias",
-            "descripcion": "​El fallecimiento de un ser querido es una situación difícil en la que contar con el mejor apoyo hace la diferencia. En caso de ser tú el que muera, imagínate lo que significa para tus familiares y amigos tener el respaldo que el Seguro de Exequias de Protec Seguros les brinda. Cero preocupaciones por tener que asumir del bolsillo propio grandes sumas de ​dinero en gastos funerarios; nosotros les damos a ellos o a ti, según sea el caso, entre $3 millones y $7 millones para pagar todo con la ventaja de que, si sobra dinero, este se entrega a los beneficiarios. ​Sabemos que la ausencia de alguien a quien se ama nunca puede llenarse, pero tenemos la certeza de que estando ahí incondicionalmente nos aseguramos de celebrar la vida.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Reembolsarles a tus beneficiarios el dinero del valor asegurado que sobra de los gastos exequiales.",
-                "Cobertura ante homicidio, accidente y suicidio desde el día en que compras el seguro.",
-                "Posibilidad de incluir personas adicionales dentro del grupo familiar.",
-                "Orientación telefónica para acompañar y asesorar a los familiares cuando el asegurado fallezca."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        },
-        {
-            "nombre": "Fondo de ahorros",
-            "descripcion": "​Respaldamos tu vida y protegemos tu libertad y autonomía. Asimismo, te damos opciones para que ahorres con nosotros y hagas realidad tus sueños por medio de la consolidación de un patrimonio sólido.",
-            "imagen": "img/vida.jpg",
-            "incluye": [
-                "Posibilidad de ahorro continuo de bajas cuantías.",
-                "Capitalización diaria.",
-                "Diversificación del riesgo mediante un portafolio que incluye diferentes instrumentos de renta fija CDT, bonos emitidos por empresas, títulos emitidos por el Gobierno, entre otros.",
-                "Retiros parciales sin penalización​."
-            ],
-            "no_incluye": [
-                "Suicidio en el primer año de la póliza"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/vida-estadistica.png",
-                    "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
-                    "texto": "Un seguro de vida garantiza tranquilidad financiera."
-                }
-            ]
-        }
-    ],
-    "Protec patrimonio": [
-        {
-            "nombre": "Seguro de hogar",
-            "descripcion": "Cuando tienes un seguro de hogar sabes que, pase lo que pase, conservas el patrimonio que has construido con los años o que estás iniciando, así proteges el lugar en el que vives, los electrodomésticos y muebles, tus elementos personales, las prendas de vestir que usas todos los días y hasta los elementos asociados al negocio que tienes en tu vivienda. Si en algún momento ocurre un evento cubierto por el seguro, como un incendio, huracán, derrumbe, entre otros, te reembolsamos el dinero para que sustituyas lo que resulte afectado. También tienes la opción de obtener coberturas adicionales que te respaldan en caso de robo, con o sin violencia, daños a otros y daños o pérdidas de contenidos móviles  que pueden estar por fuera de tu vivienda, por ejemplo computadores portátiles, tabletas o cámaras fotográficas.",
-            "imagen": "img/poliza-salud.jpg",
-            "incluye": [
-                "Aseguramiento valor comercial de tu vivienda.",
-                "Aseguramiento a valor de reconstrucción.",
-                "Daños causados debido al agua en el interior de la vivienda.",
-                "Caída de aeronaves u objetos que caigan de ellas.",
-                "Rotura de vidrios, acrílicos, espejos y unidades sanitarias",
-                "Incendio.",
-                "Explosión",
-                "Daños causados debido al humo.",
-                "Daños causados por inundación.",
-                "Impacto de vehiculo terrestres al hogar.",
-                "Gastos de extinción del siniestro",
-                "Gastos de extinción, preservación y honorarios.",
-                "Incremento en costos de materiales y mano de obra.",
-                "Pérdida de ingresos por arrendamiento.",
-                "Responsabilidad civil.",
-                "Aseguramiento de contenidos generales de tu hogar sin listarlos."
-            ],
-            "no_incluye": [
-                "Cirugías estéticas",
-                "Tratamientos experimentales"
-            ],
-            "estadisticas": [
-                {
-                    "imagen": "img/salud-grafico.png",
-                    "titulo": "El 65% de las personas no están aseguradas",
-                    "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
-                }
-            ]
-        },
-        {
-            "nombre": "Seguro de arrendamiento",
-            "descripcion": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para que obtengas un descuento por incluir a tu pareja, padres e hijos. Con este seguro consolidas el capital necesario para no perder tu calidad de vida en caso de sufrir alguna enfermedad grave como cáncer, alzhéimer, párkinson, entre otras​ que son parte de la cobertura, por eso te sientes protegido y tranquilo​. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-            "imagen": "img/renta-diaria.jpg",
-            "incluye": [
-                "Pago del arriendo en caso de incumplimiento de tu inquilino",
-                "Pago de cuotas de administración",
-                "Servicios públicos domiciliarios pendientes en la entrega del inmueble",
-                "Pago del arriendo en caso de incumplimiento de tu inquilino",
-                "Pago de cuotas de administración",
-                "Asistencia domiciliaria (servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica)"
-            ],
-            "no_incluye": [
-                "Enfermedades preexistentes",
-                "Accidentes bajo efectos de alcohol"
-            ],
-            "estadisticas": []
-        },
-        {
-            "nombre": "Plan inversión protegida",
-            "descripcion": "Sabemos que tener vivienda propia es uno de tus sueños y, en Protec Seguros, nos encargamos de cuidar la inversión que hagas para hacerlo realidad. De esa manera no te preocupas por las diferentes eventualidades que pongan en riesgo tu patrimonio y tu esfuerzo. Con el Plan Inversión Protegida garantizas el pago de la cuota inicial de tu vivienda ante el constructor o la entidad financiera si pierdes tu empleo, quedas inválido o falleces. ¡Permítenos acompañarte para que cumplas tu meta de tener vivienda propia, sea para habitar o invertir!",
-            "imagen": "img/renta-diaria.jpg",
-            "incluye": [
-                "Desempleo o pérdida del ingreso por incapacidad",
-                "Incapacidad total y permanente",
-                "Fallecimiento",
-                "Retiros parciales sin penalización​.",
-                "Proteges la cuota inicial o el total del crédito en la compra de vivienda.",
-                "Estás cubierto en caso de perder tu empleo, tener una incapacidad o si se te presenta alguna eventualidad.",
-                "Continúas construyendo tus metas hasta que se hagan realidad."
-            ],
-            "no_incluye": [
-                "Enfermedades preexistentes",
-                "Accidentes bajo efectos de alcohol"
-            ],
-            "estadisticas": []
-        }
-    ]
+    "Salud": {
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M440-501Zm0 381L313-234q-72-65-123.5-116t-85-96q-33.5-45-49-87T40-621q0-94 63-156.5T260-840q52 0 99 22t81 62q34-40 81-62t99-22q81 0 136 45.5T831-680h-85q-18-40-53-60t-73-20q-51 0-88 27.5T463-660h-46q-31-45-70.5-72.5T260-760q-57 0-98.5 39.5T120-621q0 33 14 67t50 78.5q36 44.5 98 104T440-228q26-23 61-53t56-50l9 9 19.5 19.5L605-283l9 9q-22 20-56 49.5T498-172l-58 52Zm280-160v-120H600v-80h120v-120h80v120h120v80H800v120h-80Z'/></svg>",
+        "items": [
+            {
+                "nombre": "Póliza de Salud",
+                "descripcion": "Con un Seguro de Salud permaneces tranquilo porque sabes que tienes acceso ilimitado a servicios que no solo complementan tu Plan Obligatorio, sino que además te permiten disfrutar de atenciones exclusivas como consultar directamente a un médico especialista o realizar exámenes de imagenología o radiología, sin necesidad de esperar una autorización por parte del médico general. ¿Y eso cómo te beneficia?, sencillo. tienes cobertura de alta calidad en ayudas diagnósticas de laboratorio, imagenología o radiología,​ prótesis y trasplantes,  además cuentas con tratamientos ambulatorios en caso de que requieras una diálisis o de que seas diagnosticado con enfermedades de alto costo​.",
+                "imagen": "img/poliza-salud.png",
+                "incluye": [
+                    "Hospitalizaciones psiquiátricas",
+                    "Transplantes",
+                    "Cirugía ambulatoria y tratamiento de fracturas, luxaciones y esquinces",
+                    "Tratamiento ambulatorio por cáncer o leucemia",
+                    "Tratamiento por hemodiálisis y diálisis peritoneal",
+                    "Tratamiento por VIH - SIDA",
+                    "Unidad de cuidados intensivos y especiales",
+                    "Gastos Hospitalarios",
+                    "Habitación individual",
+                    "Exámenes de diagnóstico",
+                    "Terapias físicas",
+                    "Nebulizaciones, terapias del lenguaje, respiratorias, cardiacas, ortópticas, linfáticas, pleóticas",
+                    "Medicamentos por tratamientos ambulatorios para las enfermedades enunciadas en las condiciones generales",
+                    "Evaluación neuro psiquiátrica o neuro psicológica",
+                    "Escleroterapia hasta 10 sesiones por vigencia",
+                    "Urgencias por enfermedad o accidente fuera del país a través de asistencia en viaje",
+                    "Hospitalizaciones y cirugías programadas fuera del país",
+                    "Afiliación y mantenerse activos EPS Regimen Contributivo",
+                    "Tratamientos ambulatorios por cáncer y leucemia programados en el exterior",
+                    "Medicamentos secundarios a cáncer o leucemia",
+                    "Asistencia en viaje",
+                    "Tratamientos específicos fuera de hospital o clínica",
+                    "Puvaterapias",
+                    "Terapias de acondicionamiento físico",
+                    "Terapia familiar",
+                    "Terapia alternativa acupuntura",
+                    "Tratamiento por hemodiálisis y diálisis peritoneal programado en el exterior",
+                    "Examenes de diagnóstico radilógicos programados en el exterior",
+                    "Maternidad y atención del parto",
+                    "EMD",
+                    "Coberturas para recién nacido, sin cobro hasta la renovación",
+                    "Renta por días de hospitalización o cirugía",
+                    "Medicamentos secundarios ambulatorios a quimio, radio y hormonoterapia",
+                    "Infiltraciones ortopedicas, intra timpanicas, dermatológicas",
+                    "Medicamentos pre y pos hospitalarios u quirurgícos, fracturas, luxaciones y esquinces",
+                    "Urgencias por accidente",
+                    "Gastos funerarios",
+                    "Donación de órganos",
+                    "Consulta médica externa",
+                    "Enfermera en casa, luego de cirugías u hospitalizaciones",
+                    "Urgencias por enfermedad",
+                    "Plan de atención médica hospitalaria en casa",
+                    "Laboratorios clínicos",
+                    "Gastos de prótesis",
+                    "Urgencias odontológicas por accidentes"
+                ],
+                "no_incluye": [
+                    "Cirugías estéticas",
+                    "Tratamientos experimentales"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/salud-grafico.png",
+                        "titulo": "El 65% de las personas no están aseguradas",
+                        "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                    }
+                ]
+            },
+            {
+                "nombre": "Póliza de endermedades graves",
+                "descripcion": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para que obtengas un descuento por incluir a tu pareja, padres e hijos. Con este seguro consolidas el capital necesario para no perder tu calidad de vida en caso de sufrir alguna enfermedad grave como cáncer, alzhéimer, párkinson, entre otras​ que son parte de la cobertura, por eso te sientes protegido y tranquilo​. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
+                "imagen": "img/enfermedades-graves.png",
+                "incluye": [
+                    "Cáncer y leucemia",
+                    "Infarto del mi​ocardio",
+                    "Enfermedad cerebrovascular",
+                    "Insuficiencia renal crónica",
+                    "Parálisis de miembros superiores o inferiores​",
+                    "Pérdida de miembros superiores o inferiores",
+                    "Pérdida total de la audición",
+                    "Pérdida total de la visión",
+                    "Esclerosis múltiple",
+                    "Estado de coma",
+                    "Revascularización arterial coronaria ",
+                    "Trasplante de órgano mayor",
+                    "Traumatismo mayor de cabeza",
+                    "Válvula del corazón  ",
+                    "Ree​mplazo total de válvula del corazón",
+                    "Tumor cerebral Benigno",
+                    "Esclerosis                             ",
+                    "Esclerosis lateral amiotrófica",
+                    "Enfermedad de Alzheimer",
+                    "Parkinson  ",
+                    "Enfermedad de Parkinson​"
+                ],
+                "no_incluye": [
+                    "Enfermedades preexistentes",
+                    "Accidentes bajo efectos de alcohol"
+                ],
+                "estadisticas": []
+            },
+            {
+                "nombre": "Póliza plan renta diaria",
+                "descripcion": "Sabemos el impacto económico que te generan los gastos que vienen con una hospitalización. transporte de familiares, alimentación de visitantes, gastos médicos, entre otros, por eso te ofrecemos un plan que te permitirá recuperar total o parcialmente los ingresos que dejas de recibir en ese período.​ El Seguro Plan Renta Diaria funciona de forma sencilla. imagina que aseguras un valor de $50 000 diarios y te hospitalizan diez días. Cuando te den de alta, te dare​mos una indemnización por quinientos mil pesos para que, con ese reembolso, reduzcas los ga​stos que tuviste. El apoyo no solo aplica en ese caso sino también en cirugías ambulatorias o partos.​ Ten en cuenta que el máximo de días consecutivos de hospitalización para contar con el respaldo es de 90, pero puedes obtener una cobertura opcional para que recibas dinero hasta por 180 días, siempre y cuando estén avalados en tu historia clínica. ¿Qué esperas? Si tienes 59 años o menos, este plan es para ti.​",
+                "imagen": "img/renta-diaria.jpg",
+                "incluye": [
+                    "Recibir una indemnización diaria en caso de hospitalización, cirugía ambulatoria o parto.",
+                    "Contar con un respaldo adicional al que te brinda el POS o un plan complementario de salud.",
+                    "Cuidar tus finanzas personales por los ingresos que dejarás de percibir mientras estés hospitalizado o en recuperación.",
+                    "Indemnización por cada día que estés hospitalizado.",
+                    "Indemnización por cada cirugía ambulatoria."
+                ],
+                "no_incluye": [
+                    "Enfermedades preexistentes",
+                    "Accidentes bajo efectos de alcohol"
+                ],
+                "estadisticas": []
+            },
+            {
+                "nombre": "Salud para todos",
+                "descripcion": "Es un seguro de salud que cuenta con diferentes planes que puedes elegir según tus necesidades y capacidad de pago. De acuerdo al que elijas podrás o no compartirlo con quien prefieras y acceder a diferentes coberturas y beneficios.necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
+                "imagen": "img/renta-diaria.jpg",
+                "incluye": [
+                    "Acceso directo a un grupo de especialistas, incluidos profesionales de salud mental, dependiendo del plan que elijas.",
+                    "Servicios de imágenes diagnósticas.",
+                    "Atención virtual prioritaria.",
+                    "Atención médica domiciliaria.",
+                    "Urgencias odontológicas domiciliarias."
+                ],
+                "no_incluye": [
+                    "Enfermedades preexistentes",
+                    "Accidentes bajo efectos de alcohol"
+                ],
+                "estadisticas": []
+            }
+        ]
+    },
+    "Personas": {
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M0-240v-63q0-43 44-70t116-27q13 0 25 .5t23 2.5q-14 21-21 44t-7 48v65H0Zm240 0v-65q0-32 17.5-58.5T307-410q32-20 76.5-30t96.5-10q53 0 97.5 10t76.5 30q32 20 49 46.5t17 58.5v65H240Zm540 0v-65q0-26-6.5-49T754-397q11-2 22.5-2.5t23.5-.5q72 0 116 26.5t44 70.5v63H780Zm-455-80h311q-10-20-55.5-35T480-370q-55 0-100.5 15T325-320ZM160-440q-33 0-56.5-23.5T80-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T160-440Zm640 0q-33 0-56.5-23.5T720-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T800-440Zm-320-40q-50 0-85-35t-35-85q0-51 35-85.5t85-34.5q51 0 85.5 34.5T600-600q0 50-34.5 85T480-480Zm0-80q17 0 28.5-11.5T520-600q0-17-11.5-28.5T480-640q-17 0-28.5 11.5T440-600q0 17 11.5 28.5T480-560Zm1 240Zm-1-280Z'/></svg>",
+        "items": [
+            {
+                "nombre": "Seguro de Vida",
+                "descripcion": "Obtener y conservar tu independencia económica ante cualquier imprevisto es importante para ti​, al igual que contar con un ahorro para cumplir tus sueños ​y los de tus seres queridos.​ Por eso, con nuestro seguro de vida Plan vive estás tranquilo porque proteges tus ingresos, puedes contratar un fondo de ahorro para cumplir tus proyectos de corto plazo o complementarlo con el Seguro de Pensión para mantener tu calidad de vida en la etapa de retiro. Así, te aseguras de disfrutar tu vida, alcanzando todas tus metas y compartiendo la vida que deseas con tus seres queridos. Cualquier persona desde los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que más se ajustan a su momento y estilo de vida.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Ofrecer un bono por hospitalización.",
+                    "Respaldo económico en caso de que seas diagnosticado con enfermedades graves.",
+                    "Respaldo económico en caso de que seas diagnosticado con cáncer.",
+                    "Le damos a tus familiares un auxilio de exequias.",
+                    "Posibilidad de ahorro.",
+                    "Devolución de dinero si decides cancelar el seguro en algún momento.",
+                    "Posibilidad de asegurarte de por vida mediante un único pago.",
+                    "Darles a tus beneficiarios un dinero adicional en caso de muerte accidental.",
+                    "Darte dinero en caso de invalidez y desmembramiento por accidente.",
+                    "Entregar dinero en caso de invalidez y desmembramiento por enfermedad.",
+                    "Te reembolsamos los gastos médicos derivados de accidentes (ideal si no tienes EPS)."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de renta vitalicia",
+                "descripcion": "Te garantizamos una suma de dinero mensual desde el momento en que te pensiones (de acuerdo con las condiciones que elijas o te apliquen) para que, pase lo que pase, siempre vivas con la certeza de bienestar para ti y ​tu familia.​ Sabemos lo importante que ​es tu calidad de vida y la de tus seres queridos, por eso contamos con diferentes alternativas para acompañarte cuando culmines tu etapa laboral o en la realización de tus sueños en cualquier momento​. Ingresa a cada ​plan que te ofrecemos y escoge el que más se acomode a tus necesidades y metas.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Mesada pensional",
+                    "Auxili​o fu​nerario",
+                    "Garantizar tu calidad de vida.",
+                    "Recibir mesada mensual  Recibir una mesada mensual desde el moment",
+                    "Dejarle a tus beneficiarios una mesada en caso de que fallezcas. "
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de educación",
+                "descripcion": "Con el Seguro de Educación estructuras un plan de pagos para construir un capital con el que puedas cubrir los costos del plan educativo q​ue quieras asegurar para ti o para tus seres queridos en el futuro. El seguro te permite cubrir gastos de matrícula y manutención​ para estudios primarios, secundarios, no convencionales y universitarios, ​ya sean de pregrado o posgrado. También cubre educación en el exterior como viajes de intercambio. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Lograr las metas definidas para ti o tus seres queridos.",
+                    "Estructurar un plan de pag​os para construir un capital para estudio.",
+                    "Tener un seguro libre de cualquier obligación financiera.",
+                    "Acumular el respaldo económico que te desembolsaremos en la matrícula.  ",
+                    "Costos de matrícula"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de pensión",
+                "descripcion": "Gracias al Seguro de Pensión que ofrece Protec Seguros, sus empleados podrán adquirir una cultura de ahorro y al mismo tiempo asegurar los ingresos que en unos años complementarán su pensión. Con esta alternativa, tendrán la posibilidad de garantizar un capital de respaldo para que él o sus seres queridos disfruten de calidad de vida en el futuro. El empleado define por cuánto tiempo quiere pagar y cuál es la periodicidad más cómoda una suma única o a través de cuotas mensuales de mínimo $ 100.000 pesos, o de sus equivalentes trimestrales, semestrales o anuales. Tenga en cuenta que el ingreso mensual que recibirá no pierde valor en el tiempo y es garantizado, el riesgo financiero lo asumimos nosotros. Además, su empleado es quien elige por cuánto tiempo prefiere recibir sus desembolsos, y si los anticipa a su pensión, o simplemente espera a que llegue y la complementa.​",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Construir un capital para complementar su pensión",
+                    "Disfrutar su futuro con calidad de vida.",
+                    "Cubrir los gastos que él o sus seres queridos requieran en el futuro."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro accidentes",
+                "descripcion": "Sabemos que el riesgo está en todas partes y tenemos un seguro con el que te sentirás más protegido, sea porque te gusta salir en tu bicicleta, conduces tu carro con frecuencia o caminas tranquilo por un parque.Con el Seguro de Accidentes Personales te indemnizamos a ti o a tus beneficiarios en caso de que presentes alguna invalidez o fallezcas con motivo de una situación accidental. También tienes la posibilidad de contratar coberturas adicionales que complementan tu tranquilidad. Si te incapacitan, recibes una renta por cada día que no puedas trabajar o realizar tus actividades cotidianas con normalidad. Adicionalmente, te reembolsamos los gastos médicos en que incurras a causa de un accidente y que tu EPS o tu Seguro de Salud no cubran.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Estar tranquilo porque tus beneficiarios recibirán una indemnización en caso de que fallezcas en un accidente o como consecuencia de este.",
+                    "Asegurarte hasta los 70 años  Recibir una renta diaria durante el tiempo que tarde tu recuperación para que tú y tus seres queridos ​no pierdan su calidad de vida.",
+                    "Darles un respaldo a tus beneficiarios  Contar con apoyo económico si quedas con una invalidez o desmembración a causa de un accidente.",
+                    "Recibir reembolsos  Tener la posibilidad de recibir reembolsos por los gastos médicos en que incurras a consecuencia de un"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro mascotas",
+                "descripcion": "Sabemos que tus mascotas son una parte fundamental de tu Familia. Con esta solución Protec Seguros te respalda protegiendo tu patrimonio, en caso de que este se vea afectado por cualquier evento relacionado con tus perros o gatos, y te acompaña satisfaciendo tus necesidades y las de tus mascotas, a través de la prestación de diferentes servicios, para que puedas cuidarlos, atenderlos y consentirlos como se lo merecen.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Guardería en caso de hospitalización o viaje del dueño",
+                    "Informes de vacunas para tu mascota",
+                    "Asistencia legal en caso de presentar daños a terceros",
+                    "Orientación nutricional veterinaria",
+                    "Baño para tu mascota",
+                    "Entrega de medicamentos a domicilio",
+                    "Orientación psicológica al dueño por el fallecimiento de su mascota",
+                    "Refuerzo antirrábico anual para tu mascota",
+                    "Referencia y coordinación de servicios para tu mascota",
+                    "Paseador canino"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            }
+        ]
+    },
+    "Movilidad": {
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M300-320q25 0 42.5-17.5T360-380q0-25-17.5-42.5T300-440q-25 0-42.5 17.5T240-380q0 25 17.5 42.5T300-320Zm360 0q25 0 42.5-17.5T720-380q0-25-17.5-42.5T660-440q-25 0-42.5 17.5T600-380q0 25 17.5 42.5T660-320ZM160-120q-17 0-28.5-11.5T120-160v-320l84-240q6-18 21.5-29t34.5-11h300v80H274l-42 120h328v80H200v200h560v-200h80v320q0 17-11.5 28.5T800-120h-40q-17 0-28.5-11.5T720-160v-40H240v40q0 17-11.5 28.5T200-120h-40Zm40-360v200-200Zm474-80q-14 0-24-10t-10-24v-132q0-14 10-24t24-10h6v-40q0-33 23.5-56.5T760-880q33 0 56.5 23.5T840-800v40h6q14 0 24 10t10 24v132q0 14-10 24t-24 10H674Zm46-200h80v-40q0-17-11.5-28.5T760-840q-17 0-28.5 11.5T720-800v40Z'/></svg>",
+        "items": [
+            {
+                "nombre": "Plan utilitario y pesado",
+                "descripcion": "​Si usas tu vehículo como una fuente de ingresos y transportas productos o personas, te recomendamos tener el Plan Utilitarios y Pesados de Protec Seguros. Con este seguro, diseñado para carros utilitarios livianos (capacidad de carga inferior a 2.5 toneladas) y pesados (capacidad de carga superior a 2.5 toneladas), te proteges frente a los daños que se puedan generar en carretera o mientras desarrollas tu actividad económica.Con nosotros recibes acompañamiento permanente no solo en caso de accidentes o robos, sino también en temas de asistencia y prevención, facilitándote la operación en el día a día y ahorrando tiempo y dinero.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Accidentes y daños a terceros",
+                    "Asegura tu mercancia",
+                    "Protege tu conductor",
+                    "Cobertura contra accidentes",
+                    "Daño a terceros",
+                    "Asistencia en carretera ",
+                    "Envio de repuestos",
+                    "Asistencia juridica",
+                    "Taller movil",
+                    "Servicios de desplazamiento"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de autos",
+                "descripcion": "Por medio de tu movilidad realizas las actividades de tu vida cotidiana. Por eso, estamos contigo para que te desplaces de forma segura sintiéndote acompañado y ahorrando tiempo y dinero. En Protec Seguros tenemos soluciones que se adaptan a los medios que escojas para tus re​corridos, reconociendo que, más que asegurar tu vehículo, cuidamos tu vida, la de quienes te encuentras en la vía y el patrimonio que has construido. Todos nuestros planes te brindan el pago a los afectados por los daños que les causes en un choque o accidente (si tuviste alguna responsabilidad).necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
+                    "Pagar por los gastos necesarios para trámites de defensa judicial",
+                    "Conductor profesional cuando no puedas manejar por una enfermedad imprevista",
+                    "Te informamos sobre el estado de las vías",
+                    "Asesoría jurídica vía telefónica o en el sitio del accidente",
+                    "Acompañamiento ante el tránsito o centro de conciliación",
+                    "Servicio de grúa en caso de varada o accidente",
+                    "Taller móvil y cerrajería",
+                    "Conductor elegido",
+                    "Transporte por lesiones o enfermedad",
+                    "Reponerte tu carro en caso de pérdida total o parcial por hurto",
+                    "Reponerte tu carro en caso de pérdida total o parcial por daños",
+                    "Alternativas de movilidad",
+                    "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)",
+                    "Seguro de accidentes personales al conductor",
+                    "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro",
+                    "Gastos de traspaso en caso de pérdida total por daños o hurto",
+                    "Reemplazo de llaves en caso de que se pierdan o dañen",
+                    "Reponerte accesorios y equipos especiales en caso de pérdida",
+                    "''*Según los detalles en la inspección de asegurabilidad del carro''",
+                    "Protección al cargador"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de motos",
+                "descripcion": "Aseguramos motos de alto cilindraje (mayor a 250 c.c) y bajo cilindraje (menor o igual a 250 c.c.). Para cuidar la tuya, cuentas con tres revisiones preventivas gratis al año y las asesorías que necesites con un mecánico experto. Esto se brinda en el Centro de Servicios Motos Protec Seguros y sus aliados o, si prefieres, de forma virtual, También tienes un peritaje gratuito. Si estás de viaje en carretera y te chocas o varas y tu moto es de alto cilindraje, tienes servicio de grúa de amplio alcance para devolverte o llegar a tu destino. Esto también aplica si tu moto es eléctrica.​",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Pagar por los gastos necesarios para trámites de defensa judicial.",
+                    "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
+                    "Te informamos sobre el estado de las vías.",
+                    "Carro taller para imprevistos como pinchadas de llanta o daño de batería.",
+                    "Consultas gratuitas mecánicas a expertos antes de un viaje (en Motos Protec Seguros Bogotá, Cali y Medellín).",
+                    "Asesoría jurídica vía telefónica o en el sitio del accidente.",
+                    "Acompañamiento ante el tránsito o centro de conciliación."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de bicis y patinetas",
+                "descripcion": "En Protec Seguros te acompañamos si tu bici o patineta tiene una pérdida total por robo o daños y si tienes un incidente o sufres un accidente estando solo contra un objeto o persona. Para ello, activamos las asistencias que tenemos a tu disposición. Además, cuidamos de tu vehículo el Centro de Servicios Protec Seguros o de forma virtual con la asesoría de nuestros expertos para orientarte en temas de postura, acondicionamiento físico y consultoría mecánica. Si eres asegurado de Protec Seguros de cualquier solución, recibes dos alistamientos gratuitos para bici durante el año y 50 % de descuento en bike fit. Esto también aplica si tu bici es eléctrica.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Daños a terceros.",
+                    "Accidentes personales.",
+                    "Pérdidas totales por daños o hurto.",
+                    "Renta diaria por hospitalización.",
+                    "Asistencia."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de viaje",
+                "descripcion": "En Protec Seguros te acompañamos si durante tu viaje tienes un accidente o una enfermedad, coordinando los servicios médicos que requieras. Si no te sientes bien, recibe atención médica por medio de llamada telefónica desde donde estés para ser atendido por un experto y, de acuerdo con tu estado de salud, te orientamos de la mejor manera. Te pagamos el valor asegurado si afrontas alguna de las siguientes situaciones se te pierde o demora tu equipaje, te roban tus documentos o cancelas tu viaje. Por el WhatsApp +57 315 275 7888 opciones 1-4 puedes hacer estas reclamaciones y pedir asistencia. El seguro funciona en el mundo y te cubre en casos de emergencia justificada. Asimismo, asume el hospedaje y desplazamiento tuyo y de un acompañante si debes extender el viaje por alguna situación médica. Si mueres, tu cuerpo es trasladado al lugar donde se realicen las exequias.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Equipaje",
+                    "Acompañamiento",
+                    "Cancelacion de vuelos o viaje",
+                    "Gastos por robo de documentos"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Plan muévete libre",
+                "descripcion": "Caminando, en transporte público masivo, taxi, bici, patineta o moto, con el Plan Muévete Libre estás tranquilo porque te protegemos a ti como persona. Muévete como más te guste con el respaldo de un seguro que te permite sentirte acompañado y ahorrar tiempo y dinero. Además de que estás asegurado cuando salgas a pasear con tu mascota, pues cubrimos los daños que tanto tú como ella pueden ocasionar a otros. De esa manera, y porque sabemos que necesitas moverte, cuidamos tu vida y tu salud en cada trayecto para que siempre, con Protec Seguros, te asegures de vivir.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Daño a terceros",
+                    "Accidentes personales",
+                    "Gastos medicos por accidente",
+                    "Gastos por cirugia o fractura",
+                    "Renta diaria por hospitalización",
+                    "Hurto documentos"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Responsabilidad civil familiar",
+                "descripcion": "En la vida diaria estás expuesto a un sin número de riesgos que no pu​edes evitar, si en alguno de ellos tú o tu familia ocasionan daños a terceras personas, puedes ver afectado tu patrimonio y tranquilidad, pues es necesario indemnizar a la persona involucrada, ya sea por un daño físico o moral, a una propiedad u objeto.​ ​El Seguro de Responsabilidad Civil Familiar, fue creado pensando en ti y en tu familia, para protegerte en situaciones cotidianas y ofrecerte un r​espaldo de defensa judicial y gastos médicos de urgencia para situaciones en las que más lo necesites.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Tu mascota se escapa y muerde un niño que está pasando por la casa. ",
+                    "Tu hijo está estudiando en el exterior y va a un centro comercial, por accidente tropieza con una estantería y daña los productos. ",
+                    "Tu lavadora se daña e inunda la casa de tu vecino. ",
+                    "Tu hijo jugando fútbol quiebra un vidrio en el edificio del frente. ",
+                    "Por accidente tu dron cae sobre una persona o un carro. ​",
+                    "Daños a terceros",
+                    "Viajes al exterior",
+                    "Uso de drones",
+                    "Accidente laboral",
+                    "Gastos de defensa",
+                    "Gastos médicos de urgencias ",
+                    "Daños causados por tu mascota"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de responsabilidad civil profesional",
+                "descripcion": "La Responsabilidad Civil Profesional es aquella que surge cuando le causas un daño a un tercero en el ejercicio de tu actividad profesional u oficio. ​Cuando ejerces una profesión eres responsable por los daños que puedan sufrir los terceros como consecuencia de errores u omisiones que cometas en la prestación del servicio, sin importar la profesión que tengas.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Resposabilidad Civil Profesional",
+                    "Gastos de defensa por reclamaciones​",
+                    "Resposabilidad Civil Profesional",
+                    "Gastos de defensa"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de Responsabilidad Civil para Profesionales de la Salud",
+                "descripcion": "Cuando ejerces tu profesión estás obligado a preservar los derechos de tus pacientes como la vida, la salud, las buenas condiciones físicas o mentales y la integridad corporal. Cuando vulneras alguno de estos derechos, tu paciente o los afectados pueden reclamar una indemnización. Por esto en Protec Seguros hemos creado el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Responsabilidad civil profesional ​",
+                    "Errores y omisiones en dictámenes periciales ",
+                    "Responsabilidad civil por fallas en el tratamiento de datos sensibles o personales",
+                    "Gastos de defensa ​por reclamaciones civiles o de tribunal de ética médica"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de Responsabilidad Civil Profesional para Veterinarios",
+                "descripcion": "¡El concepto de familia ha cambiado y ahora las mascotas juegan un papel más importante en nuestras vidas! En Protec Seguros somos conscientes de los riesgos a los que estás expuesto como médico, por eso contamos con el Seguro de Responsabilidad Civil Profesional para Veterinarios, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.​",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Responsabilidad civil profesional",
+                    "Gastos de defensa por reclamaciones civiles"
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro colectivo de Vida (Vida Grupo)",
+                "descripcion": "Uno de sus mayores intereses como empresario es desarrollar acciones que le permitan elevar y mantener la calidad de vida de su recurso humano y su grupo familiar. Con el Seguro Colectivo de Vida, se respirará en su empresa un aire social y familiarmente responsable, asimismo, se verá un mejoramiento en el desempeño de sus empleados y en los resultados obtenidos. Este seguro tiene como beneficio para los asegurados un menor costo de la póliza por tratarse de una colectiva y la posibilidad de extenderlo a su grupo familiar, lo que genera en ellos un mayor sentido de pertenencia por la empresa. Tenga en cuenta además, que el respaldo económico que recibirá el empleado y su grupo familiar, minimiza la necesidad de acudir a temas legales con la empresa.  Gracias a que el Seguro de Vida, se convierte en un capital de respaldo inmediato para cubrir eventos inesperados, se disminuyen solicitudes de préstamos y niveles de endeudamiento por parte de sus empleados, contribuyendo a mantener los niveles de productividad y sostenimiento de la empresa. ​",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Contar con un capital de respaldo inmediato para cubrir eventos inesperados",
+                    "Tener la posibilidad de extender la protección a su grupo familiar.",
+                    "Tener una tarifa estable a lo largo de la vida laboral."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de exequias",
+                "descripcion": "​El fallecimiento de un ser querido es una situación difícil en la que contar con el mejor apoyo hace la diferencia. En caso de ser tú el que muera, imagínate lo que significa para tus familiares y amigos tener el respaldo que el Seguro de Exequias de Protec Seguros les brinda. Cero preocupaciones por tener que asumir del bolsillo propio grandes sumas de ​dinero en gastos funerarios; nosotros les damos a ellos o a ti, según sea el caso, entre $3 millones y $7 millones para pagar todo con la ventaja de que, si sobra dinero, este se entrega a los beneficiarios. ​Sabemos que la ausencia de alguien a quien se ama nunca puede llenarse, pero tenemos la certeza de que estando ahí incondicionalmente nos aseguramos de celebrar la vida.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Reembolsarles a tus beneficiarios el dinero del valor asegurado que sobra de los gastos exequiales.",
+                    "Cobertura ante homicidio, accidente y suicidio desde el día en que compras el seguro.",
+                    "Posibilidad de incluir personas adicionales dentro del grupo familiar.",
+                    "Orientación telefónica para acompañar y asesorar a los familiares cuando el asegurado fallezca."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            },
+            {
+                "nombre": "Fondo de ahorros",
+                "descripcion": "​Respaldamos tu vida y protegemos tu libertad y autonomía. Asimismo, te damos opciones para que ahorres con nosotros y hagas realidad tus sueños por medio de la consolidación de un patrimonio sólido.",
+                "imagen": "img/vida.jpg",
+                "incluye": [
+                    "Posibilidad de ahorro continuo de bajas cuantías.",
+                    "Capitalización diaria.",
+                    "Diversificación del riesgo mediante un portafolio que incluye diferentes instrumentos de renta fija CDT, bonos emitidos por empresas, títulos emitidos por el Gobierno, entre otros.",
+                    "Retiros parciales sin penalización​."
+                ],
+                "no_incluye": [
+                    "Suicidio en el primer año de la póliza"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/vida-estadistica.png",
+                        "titulo": "El 80% de los hogares no tienen respaldo ante emergencias",
+                        "texto": "Un seguro de vida garantiza tranquilidad financiera."
+                    }
+                ]
+            }
+        ]
+    },
+    "Patrimonio": {
+        "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M160-120v-375l-72 55-48-64 120-92v-124h80v63l240-183 440 336-48 63-72-54v375H160Zm80-80h200v-160h80v160h200v-356L480-739 240-556v356Zm-80-560q0-50 35-85t85-35q17 0 28.5-11.5T320-920h80q0 50-35 85t-85 35q-17 0-28.5 11.5T240-760h-80Zm80 560h480-480Z'/></svg>",
+        "items": [
+            {
+                "nombre": "Seguro de hogar",
+                "descripcion": "Cuando tienes un seguro de hogar sabes que, pase lo que pase, conservas el patrimonio que has construido con los años o que estás iniciando, así proteges el lugar en el que vives, los electrodomésticos y muebles, tus elementos personales, las prendas de vestir que usas todos los días y hasta los elementos asociados al negocio que tienes en tu vivienda. Si en algún momento ocurre un evento cubierto por el seguro, como un incendio, huracán, derrumbe, entre otros, te reembolsamos el dinero para que sustituyas lo que resulte afectado. También tienes la opción de obtener coberturas adicionales que te respaldan en caso de robo, con o sin violencia, daños a otros y daños o pérdidas de contenidos móviles  que pueden estar por fuera de tu vivienda, por ejemplo computadores portátiles, tabletas o cámaras fotográficas.",
+                "imagen": "img/poliza-salud.jpg",
+                "incluye": [
+                    "Aseguramiento valor comercial de tu vivienda.",
+                    "Aseguramiento a valor de reconstrucción.",
+                    "Daños causados debido al agua en el interior de la vivienda.",
+                    "Caída de aeronaves u objetos que caigan de ellas.",
+                    "Rotura de vidrios, acrílicos, espejos y unidades sanitarias",
+                    "Incendio.",
+                    "Explosión",
+                    "Daños causados debido al humo.",
+                    "Daños causados por inundación.",
+                    "Impacto de vehiculo terrestres al hogar.",
+                    "Gastos de extinción del siniestro",
+                    "Gastos de extinción, preservación y honorarios.",
+                    "Incremento en costos de materiales y mano de obra.",
+                    "Pérdida de ingresos por arrendamiento.",
+                    "Responsabilidad civil.",
+                    "Aseguramiento de contenidos generales de tu hogar sin listarlos."
+                ],
+                "no_incluye": [
+                    "Cirugías estéticas",
+                    "Tratamientos experimentales"
+                ],
+                "estadisticas": [
+                    {
+                        "imagen": "img/salud-grafico.png",
+                        "titulo": "El 65% de las personas no están aseguradas",
+                        "texto": "Contar con una póliza de salud reduce en un 40% el gasto inesperado."
+                    }
+                ]
+            },
+            {
+                "nombre": "Seguro de arrendamiento",
+                "descripcion": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para que obtengas un descuento por incluir a tu pareja, padres e hijos. Con este seguro consolidas el capital necesario para no perder tu calidad de vida en caso de sufrir alguna enfermedad grave como cáncer, alzhéimer, párkinson, entre otras​ que son parte de la cobertura, por eso te sientes protegido y tranquilo​. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
+                "imagen": "img/renta-diaria.jpg",
+                "incluye": [
+                    "Pago del arriendo en caso de incumplimiento de tu inquilino",
+                    "Pago de cuotas de administración",
+                    "Servicios públicos domiciliarios pendientes en la entrega del inmueble",
+                    "Pago del arriendo en caso de incumplimiento de tu inquilino",
+                    "Pago de cuotas de administración",
+                    "Asistencia domiciliaria (servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica)"
+                ],
+                "no_incluye": [
+                    "Enfermedades preexistentes",
+                    "Accidentes bajo efectos de alcohol"
+                ],
+                "estadisticas": []
+            },
+            {
+                "nombre": "Plan inversión protegida",
+                "descripcion": "Sabemos que tener vivienda propia es uno de tus sueños y, en Protec Seguros, nos encargamos de cuidar la inversión que hagas para hacerlo realidad. De esa manera no te preocupas por las diferentes eventualidades que pongan en riesgo tu patrimonio y tu esfuerzo. Con el Plan Inversión Protegida garantizas el pago de la cuota inicial de tu vivienda ante el constructor o la entidad financiera si pierdes tu empleo, quedas inválido o falleces. ¡Permítenos acompañarte para que cumplas tu meta de tener vivienda propia, sea para habitar o invertir!",
+                "imagen": "img/renta-diaria.jpg",
+                "incluye": [
+                    "Desempleo o pérdida del ingreso por incapacidad",
+                    "Incapacidad total y permanente",
+                    "Fallecimiento",
+                    "Retiros parciales sin penalización​.",
+                    "Proteges la cuota inicial o el total del crédito en la compra de vivienda.",
+                    "Estás cubierto en caso de perder tu empleo, tener una incapacidad o si se te presenta alguna eventualidad.",
+                    "Continúas construyendo tus metas hasta que se hagan realidad."
+                ],
+                "no_incluye": [
+                    "Enfermedades preexistentes",
+                    "Accidentes bajo efectos de alcohol"
+                ],
+                "estadisticas": []
+            }
+        ]
+    }
 }

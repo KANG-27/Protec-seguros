@@ -58,11 +58,23 @@ class ServicesCarrousel extends HTMLElement {
     _renderButtons() {
         const container = this.querySelector('#botonesServicios');
         container.innerHTML = '';
+
+        // 'this.groups' ya es [ "Protec salud", "Protec personas", … ]
         this.groups.forEach((group, idx) => {
             const btn = document.createElement('button');
             btn.className = 'services-carrousel__button';
             if (idx === this.currentGroupIndex) btn.classList.add('active');
-            btn.textContent = group;
+
+            // Extraemos el SVG y ponemos el texto
+            const iconSvg = this.detalle[group].icon || '';
+            btn.innerHTML = `
+                <span class="btn-icon">${iconSvg}</span>
+                <div class="btn-text-container">
+                    <span class="btn-text-protec">Protec</span>
+                    <span class="btn-text">${group}</span>
+                </div>
+                `;
+
             btn.addEventListener('click', () => {
                 this.currentGroupIndex = idx;
                 this.currentSlideIndex = 0;
@@ -70,15 +82,17 @@ class ServicesCarrousel extends HTMLElement {
                 btn.classList.add('active');
                 this._renderSlides();
             });
+
             container.appendChild(btn);
         });
     }
+
 
     _renderSlides() {
         const track = this.querySelector('.carousel__track');
         track.innerHTML = '';
         const items = this.detalle[this.groups[this.currentGroupIndex]];
-        items.forEach(item => {
+        items.items.forEach(item => {
             const card = document.createElement('div');
             card.className = 'carousel__card';
             card.innerHTML = `
@@ -99,7 +113,14 @@ class ServicesCarrousel extends HTMLElement {
     _renderDots() {
         const dotsContainer = this.querySelector('.carousel__dots');
         dotsContainer.innerHTML = '';
-        const count = this.detalle[this.groups[this.currentGroupIndex]].length;
+
+        // 1️⃣ Recupera el objeto del grupo activo
+        const groupObj = this.detalle[this.groups[this.currentGroupIndex]];
+
+        // 2️⃣ Cuenta cuántos ítems hay
+        const count = Array.isArray(groupObj.items) ? groupObj.items.length : 0;
+
+        // 3️⃣ Por cada ítem, crea un punto
         for (let i = 0; i < count; i++) {
             const dot = document.createElement('button');
             dot.className = 'carousel__dot' + (i === this.currentSlideIndex ? ' active' : '');
@@ -110,6 +131,7 @@ class ServicesCarrousel extends HTMLElement {
             dotsContainer.appendChild(dot);
         }
     }
+
 
     _updateCarousel() {
         const track = this.querySelector('.carousel__track');
