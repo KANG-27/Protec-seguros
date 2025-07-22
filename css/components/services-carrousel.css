@@ -20,6 +20,7 @@ p {
 .services-carrousel__content {
     display: flex;
     gap: 1.5rem;
+    align-items: center;
 }
 
 /* Botones de grupo */
@@ -30,8 +31,9 @@ p {
     overflow-x: auto;
     padding-bottom: 0.5rem;
     scrollbar-width: none;
-    width: 30%;
+    width: 25%;
     margin-left: 6%;
+    padding-top: 1%;
 
 }
 
@@ -194,8 +196,8 @@ p {
 }
 
 .services-carrousel__button .btn-icon svg {
-    width: 80px;
-    height: 80px;
+    width: 51px;
+    height: 51px;
 }
 
 .services-carrousel__button {

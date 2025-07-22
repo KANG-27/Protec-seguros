@@ -41,6 +41,12 @@
     margin-top: 10px;
 }
 
+.titulo-servicios {
+    font-size: 33px;
+    font-weight: 700;
+    margin: 4% 0% 2% 6%;
+}
+
 
 @media (max-width: 900px) {
     .home__header__content {
@@ -95,7 +101,8 @@
     .home__header__content button {
         width: 80%;
     }
-    .home__header__content button{
+
+    .home__header__content button {
         font-size: 15px;
     }
 }
