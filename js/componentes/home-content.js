@@ -24,6 +24,16 @@ class HomeContent extends HTMLElement {
         </div>
         <h3 class="titulo-servicios">Servicios</h3>
         <services-carrousel></services-carrousel>
+        <div class="home__aliados">
+          <h3>Nuestros aliados</h3>
+          <p>Conectamos con las mejores aseguradoras para darte siempre lo mejor</p>
+          <div class="home__aliados__logos">
+            <img src="./img/sura.png" alt="Aliados" class="logo-aliados">
+            <img src="./img/aseguradoraSolidaria.png" alt="Aliados" class="logo-aliados">
+            <img src="./img/mapfre.png" alt="Aliados" class="logo-aliados">
+            <img src="./img/axaColpatria.png" alt="Aliados" class="logo-aliados">
+          </div>
+        </div>
       </section>
     `;
   }
