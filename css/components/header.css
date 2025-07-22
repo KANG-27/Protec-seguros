@@ -8,6 +8,9 @@ p {
   justify-content: space-between;
   padding: 2%;
 }
+.header__menu p{
+  color: white;
+}
 
 .header__menu {
   display: flex;
