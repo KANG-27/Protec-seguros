@@ -106,7 +106,7 @@
     .home--empresas .home__header {
         gap: 25px;
     }
-    
+
     .home__header__content {
         width: 100%;
         text-align: center;
@@ -118,7 +118,7 @@
     .home__header img {
         width: 70%;
     }
-    
+
     .home--empresas .home__header img {
         width: 90%;
     }
@@ -134,7 +134,28 @@
     .home__header__content button {
         font-size: 15px;
     }
+
+    .logo-aliados {
+        width: 86px;
+    }
+
     .home__aliados__logos {
-        flex-direction: column;
+        gap: 6px;
+    }
+}
+
+@media (max-width: 320px) {
+
+    .home__aliados p {
+        margin: 5%;
+
+    }
+
+    .logo-aliados {
+        width: 76px;
+    }
+
+    .home__aliados__logos {
+        gap: 0px;
     }
 }
