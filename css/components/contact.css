@@ -1,0 +1,52 @@
+.contact {
+    display: flex;
+    border-radius: 30px;
+    margin: 3% 7% 0% 13%;
+    align-items: center;
+    background-color: #F4FAFF;
+    height: 284px;
+}
+
+.contact__content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact__content__info {
+    display: flex;
+    gap: 60px;
+}
+
+.contact__content__info__data {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact__content__info__data h3 {
+    font-weight: 600;
+}
+
+.contact__content__redes h3 {
+    font-weight: 600;
+}
+
+.contact__content__info__data span {
+    color: #008EFF;
+    font-size: 18px;
+}
+
+.asesor {
+    width: 350px;
+    position: relative;
+    right: 29px;
+    top: 16px;
+}
+
+.redes-sociales{
+    width: 35px;
+}
+.redes-sociales:hover {
+    cursor: pointer;
+
+}

@@ -34,6 +34,8 @@ class HomeContent extends HTMLElement {
             <img src="./img/axaColpatria.png" alt="Aliados" class="logo-aliados">
           </div>
         </div>
+        <h3 class="titulo-servicios">Contactanos</h3>
+        <contact-component></contact-component>
       </section>
     `;
   }
