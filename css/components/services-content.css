@@ -1,0 +1,15 @@
+.services-content {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+
+.services-content__info {
+    width: 40%;
+}
+
+.services-content img {
+    width: 40%;
+    height: 40%;
+}

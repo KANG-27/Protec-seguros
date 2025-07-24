@@ -120,7 +120,8 @@ p {
     border-radius: 0.25rem;
     cursor: pointer;
     transition: background 0.3s, opacity 0.3s;
-    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .card__button:hover {

@@ -32,6 +32,8 @@ class HomeContent extends HTMLElement {
             <img src="./img/aseguradoraSolidaria.png" alt="Aliados" class="logo-aliados">
             <img src="./img/mapfre.png" alt="Aliados" class="logo-aliados">
             <img src="./img/axaColpatria.png" alt="Aliados" class="logo-aliados">
+            <img src="./img/segurosBolivar.png" alt="Aliados" class="logo-aliados">
+            <img src="./img/segurosDelEstado.png" alt="Aliados" class="logo-aliados">
           </div>
         </div>
         <h3 class="titulo-servicios">Contactanos</h3>

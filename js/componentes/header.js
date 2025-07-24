@@ -32,7 +32,7 @@ class HeaderComponent extends HTMLElement {
             <img src="img/logo.png" alt="Logo" class="header__logo">
           </div>
           <div class="header__menu">
-            <a href="#" class="header__desplegable">Inicio</a>
+            <a href="/#" class="header__desplegable">Inicio</a>
             <p class="header__desplegable" id="btnToggleMenu">
               Seguros <span class="arrow-down"><svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" width="15" fill="#FFFFFF"><path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z"/></svg></span>
             </p>

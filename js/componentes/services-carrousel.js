@@ -92,18 +92,21 @@ class ServicesCarrousel extends HTMLElement {
         const track = this.querySelector('.carousel__track');
         track.innerHTML = '';
         const items = this.detalle[this.groups[this.currentGroupIndex]];
-        items.items.forEach(item => {
+        items.items.forEach((item,id) => {
             const card = document.createElement('div');
             card.className = 'carousel__card';
             card.innerHTML = `
-        <img src="${item.imagen || 'img/placeholder.png'}"
-             alt="${item.nombre}"
-             class="card__image">
-        <h2 class="card__title">Protec</h2>
-        <h3 class="card__subtitule">${item.nombre}</h3>
-        <p class="card__description">${item.descripcion}</p>
-        <button class="card__button">Obtener</button>
-      `;
+                <img src="${item.imagen || 'img/placeholder.png'}"
+                    alt="${item.nombre}"
+                    class="card__image">
+                <h2 class="card__title">Protec</h2>
+                <h3 class="card__subtitule">${item.nombre}</h3>
+                <p class="card__description">${item.descripcion}</p>
+                <a class="card__button"
+                    href="servicios.html?type=${sessionStorage.getItem('homeTipo')}&id=${document.querySelector(".services-carrousel__button.active").querySelector(".btn-text").innerText}/${item.nombre.trim().replace(/\s+/g, '')}">
+                    Obtener
+                </a>
+            `;
             track.appendChild(card);
         });
         this._renderDots();

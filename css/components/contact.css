@@ -1,3 +1,8 @@
+.contact_content {
+    display: flex;
+    justify-content: center;
+}
+
 .contact {
     display: flex;
     border-radius: 30px;
@@ -5,6 +10,10 @@
     align-items: center;
     background-color: #F4FAFF;
     height: 284px;
+    width: max-content;
+    padding: 0px 90px;
+    gap: 30px;
+
 }
 
 .contact__content {
@@ -39,13 +48,14 @@
 .asesor {
     width: 350px;
     position: relative;
-    right: 29px;
+    right: 63px;
     top: 16px;
 }
 
-.redes-sociales{
+.redes-sociales {
     width: 35px;
 }
+
 .redes-sociales:hover {
     cursor: pointer;
 

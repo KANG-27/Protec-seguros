@@ -44,7 +44,7 @@
 .titulo-servicios {
     font-size: 33px;
     font-weight: 700;
-    margin: 4% 0% 2% 6%;
+    margin: 5% 0% 2% 6%;
 }
 
 .home__aliados {
@@ -62,7 +62,7 @@
 .home__aliados__logos {
     display: flex;
     align-items: center;
-    gap: 50px;
+    gap: 30px;
 }
 
 .logo-aliados {
