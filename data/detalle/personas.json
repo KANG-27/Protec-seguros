@@ -118,7 +118,7 @@
             {
                 "nombre": "Salud para todos",
                 "descripcion": "Es un seguro de salud que cuenta con diferentes planes que puedes elegir según tus necesidades y capacidad de pago. De acuerdo al que elijas podrás o no compartirlo con quien prefieras y acceder a diferentes coberturas y beneficios.necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-                "imagen": "img/renta-diaria.jpg",
+                "imagen": "img/salud-para-todos.png",
                 "incluye": [
                     "Acceso directo a un grupo de especialistas, incluidos profesionales de salud mental, dependiendo del plan que elijas.",
                     "Servicios de imágenes diagnósticas.",
@@ -140,7 +140,7 @@
             {
                 "nombre": "Seguro de Vida",
                 "descripcion": "Obtener y conservar tu independencia económica ante cualquier imprevisto es importante para ti​, al igual que contar con un ahorro para cumplir tus sueños ​y los de tus seres queridos.​ Por eso, con nuestro seguro de vida Plan vive estás tranquilo porque proteges tus ingresos, puedes contratar un fondo de ahorro para cumplir tus proyectos de corto plazo o complementarlo con el Seguro de Pensión para mantener tu calidad de vida en la etapa de retiro. Así, te aseguras de disfrutar tu vida, alcanzando todas tus metas y compartiendo la vida que deseas con tus seres queridos. Cualquier persona desde los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que más se ajustan a su momento y estilo de vida.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-vida.png",
                 "incluye": [
                     "Ofrecer un bono por hospitalización.",
                     "Respaldo económico en caso de que seas diagnosticado con enfermedades graves.",
@@ -168,7 +168,7 @@
             {
                 "nombre": "Seguro de renta vitalicia",
                 "descripcion": "Te garantizamos una suma de dinero mensual desde el momento en que te pensiones (de acuerdo con las condiciones que elijas o te apliquen) para que, pase lo que pase, siempre vivas con la certeza de bienestar para ti y ​tu familia.​ Sabemos lo importante que ​es tu calidad de vida y la de tus seres queridos, por eso contamos con diferentes alternativas para acompañarte cuando culmines tu etapa laboral o en la realización de tus sueños en cualquier momento​. Ingresa a cada ​plan que te ofrecemos y escoge el que más se acomode a tus necesidades y metas.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-renta-vitalicia.png",
                 "incluye": [
                     "Mesada pensional",
                     "Auxili​o fu​nerario",
@@ -190,7 +190,7 @@
             {
                 "nombre": "Seguro de educación",
                 "descripcion": "Con el Seguro de Educación estructuras un plan de pagos para construir un capital con el que puedas cubrir los costos del plan educativo q​ue quieras asegurar para ti o para tus seres queridos en el futuro. El seguro te permite cubrir gastos de matrícula y manutención​ para estudios primarios, secundarios, no convencionales y universitarios, ​ya sean de pregrado o posgrado. También cubre educación en el exterior como viajes de intercambio. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-educacion.png",
                 "incluye": [
                     "Lograr las metas definidas para ti o tus seres queridos.",
                     "Estructurar un plan de pag​os para construir un capital para estudio.",
@@ -212,7 +212,7 @@
             {
                 "nombre": "Seguro de pensión",
                 "descripcion": "Gracias al Seguro de Pensión que ofrece Protec Seguros, sus empleados podrán adquirir una cultura de ahorro y al mismo tiempo asegurar los ingresos que en unos años complementarán su pensión. Con esta alternativa, tendrán la posibilidad de garantizar un capital de respaldo para que él o sus seres queridos disfruten de calidad de vida en el futuro. El empleado define por cuánto tiempo quiere pagar y cuál es la periodicidad más cómoda una suma única o a través de cuotas mensuales de mínimo $ 100.000 pesos, o de sus equivalentes trimestrales, semestrales o anuales. Tenga en cuenta que el ingreso mensual que recibirá no pierde valor en el tiempo y es garantizado, el riesgo financiero lo asumimos nosotros. Además, su empleado es quien elige por cuánto tiempo prefiere recibir sus desembolsos, y si los anticipa a su pensión, o simplemente espera a que llegue y la complementa.​",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-pension.png",
                 "incluye": [
                     "Construir un capital para complementar su pensión",
                     "Disfrutar su futuro con calidad de vida.",
@@ -232,7 +232,7 @@
             {
                 "nombre": "Seguro accidentes",
                 "descripcion": "Sabemos que el riesgo está en todas partes y tenemos un seguro con el que te sentirás más protegido, sea porque te gusta salir en tu bicicleta, conduces tu carro con frecuencia o caminas tranquilo por un parque.Con el Seguro de Accidentes Personales te indemnizamos a ti o a tus beneficiarios en caso de que presentes alguna invalidez o fallezcas con motivo de una situación accidental. También tienes la posibilidad de contratar coberturas adicionales que complementan tu tranquilidad. Si te incapacitan, recibes una renta por cada día que no puedas trabajar o realizar tus actividades cotidianas con normalidad. Adicionalmente, te reembolsamos los gastos médicos en que incurras a causa de un accidente y que tu EPS o tu Seguro de Salud no cubran.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-accidentes.png",
                 "incluye": [
                     "Estar tranquilo porque tus beneficiarios recibirán una indemnización en caso de que fallezcas en un accidente o como consecuencia de este.",
                     "Asegurarte hasta los 70 años  Recibir una renta diaria durante el tiempo que tarde tu recuperación para que tú y tus seres queridos ​no pierdan su calidad de vida.",
@@ -253,7 +253,7 @@
             {
                 "nombre": "Seguro mascotas",
                 "descripcion": "Sabemos que tus mascotas son una parte fundamental de tu Familia. Con esta solución Protec Seguros te respalda protegiendo tu patrimonio, en caso de que este se vea afectado por cualquier evento relacionado con tus perros o gatos, y te acompaña satisfaciendo tus necesidades y las de tus mascotas, a través de la prestación de diferentes servicios, para que puedas cuidarlos, atenderlos y consentirlos como se lo merecen.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-mascotas.png",
                 "incluye": [
                     "Guardería en caso de hospitalización o viaje del dueño",
                     "Informes de vacunas para tu mascota",
@@ -285,7 +285,7 @@
             {
                 "nombre": "Plan utilitario y pesado",
                 "descripcion": "​Si usas tu vehículo como una fuente de ingresos y transportas productos o personas, te recomendamos tener el Plan Utilitarios y Pesados de Protec Seguros. Con este seguro, diseñado para carros utilitarios livianos (capacidad de carga inferior a 2.5 toneladas) y pesados (capacidad de carga superior a 2.5 toneladas), te proteges frente a los daños que se puedan generar en carretera o mientras desarrollas tu actividad económica.Con nosotros recibes acompañamiento permanente no solo en caso de accidentes o robos, sino también en temas de asistencia y prevención, facilitándote la operación en el día a día y ahorrando tiempo y dinero.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/pla-utilitario-pesado.png",
                 "incluye": [
                     "Accidentes y daños a terceros",
                     "Asegura tu mercancia",
@@ -312,7 +312,7 @@
             {
                 "nombre": "Seguro de autos",
                 "descripcion": "Por medio de tu movilidad realizas las actividades de tu vida cotidiana. Por eso, estamos contigo para que te desplaces de forma segura sintiéndote acompañado y ahorrando tiempo y dinero. En Protec Seguros tenemos soluciones que se adaptan a los medios que escojas para tus re​corridos, reconociendo que, más que asegurar tu vehículo, cuidamos tu vida, la de quienes te encuentras en la vía y el patrimonio que has construido. Todos nuestros planes te brindan el pago a los afectados por los daños que les causes en un choque o accidente (si tuviste alguna responsabilidad).necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-autos.png",
                 "incluye": [
                     "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
                     "Pagar por los gastos necesarios para trámites de defensa judicial",
@@ -350,7 +350,7 @@
             {
                 "nombre": "Seguro de motos",
                 "descripcion": "Aseguramos motos de alto cilindraje (mayor a 250 c.c) y bajo cilindraje (menor o igual a 250 c.c.). Para cuidar la tuya, cuentas con tres revisiones preventivas gratis al año y las asesorías que necesites con un mecánico experto. Esto se brinda en el Centro de Servicios Motos Protec Seguros y sus aliados o, si prefieres, de forma virtual, También tienes un peritaje gratuito. Si estás de viaje en carretera y te chocas o varas y tu moto es de alto cilindraje, tienes servicio de grúa de amplio alcance para devolverte o llegar a tu destino. Esto también aplica si tu moto es eléctrica.​",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-motos.png",
                 "incluye": [
                     "Pagar por los gastos necesarios para trámites de defensa judicial.",
                     "Pagar por los daños que les ocasiones a otras personas o a sus bienes",
@@ -374,7 +374,7 @@
             {
                 "nombre": "Seguro de bicis y patinetas",
                 "descripcion": "En Protec Seguros te acompañamos si tu bici o patineta tiene una pérdida total por robo o daños y si tienes un incidente o sufres un accidente estando solo contra un objeto o persona. Para ello, activamos las asistencias que tenemos a tu disposición. Además, cuidamos de tu vehículo el Centro de Servicios Protec Seguros o de forma virtual con la asesoría de nuestros expertos para orientarte en temas de postura, acondicionamiento físico y consultoría mecánica. Si eres asegurado de Protec Seguros de cualquier solución, recibes dos alistamientos gratuitos para bici durante el año y 50 % de descuento en bike fit. Esto también aplica si tu bici es eléctrica.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-bicicletas-patinetas.png",
                 "incluye": [
                     "Daños a terceros.",
                     "Accidentes personales.",
@@ -396,7 +396,7 @@
             {
                 "nombre": "Seguro de viaje",
                 "descripcion": "En Protec Seguros te acompañamos si durante tu viaje tienes un accidente o una enfermedad, coordinando los servicios médicos que requieras. Si no te sientes bien, recibe atención médica por medio de llamada telefónica desde donde estés para ser atendido por un experto y, de acuerdo con tu estado de salud, te orientamos de la mejor manera. Te pagamos el valor asegurado si afrontas alguna de las siguientes situaciones se te pierde o demora tu equipaje, te roban tus documentos o cancelas tu viaje. Por el WhatsApp +57 315 275 7888 opciones 1-4 puedes hacer estas reclamaciones y pedir asistencia. El seguro funciona en el mundo y te cubre en casos de emergencia justificada. Asimismo, asume el hospedaje y desplazamiento tuyo y de un acompañante si debes extender el viaje por alguna situación médica. Si mueres, tu cuerpo es trasladado al lugar donde se realicen las exequias.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-viaje.png",
                 "incluye": [
                     "Equipaje",
                     "Acompañamiento",
@@ -417,7 +417,7 @@
             {
                 "nombre": "Plan muévete libre",
                 "descripcion": "Caminando, en transporte público masivo, taxi, bici, patineta o moto, con el Plan Muévete Libre estás tranquilo porque te protegemos a ti como persona. Muévete como más te guste con el respaldo de un seguro que te permite sentirte acompañado y ahorrar tiempo y dinero. Además de que estás asegurado cuando salgas a pasear con tu mascota, pues cubrimos los daños que tanto tú como ella pueden ocasionar a otros. De esa manera, y porque sabemos que necesitas moverte, cuidamos tu vida y tu salud en cada trayecto para que siempre, con Protec Seguros, te asegures de vivir.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/plan-muevete-libre.png",
                 "incluye": [
                     "Daño a terceros",
                     "Accidentes personales",
@@ -440,7 +440,7 @@
             {
                 "nombre": "Responsabilidad civil familiar",
                 "descripcion": "En la vida diaria estás expuesto a un sin número de riesgos que no pu​edes evitar, si en alguno de ellos tú o tu familia ocasionan daños a terceras personas, puedes ver afectado tu patrimonio y tranquilidad, pues es necesario indemnizar a la persona involucrada, ya sea por un daño físico o moral, a una propiedad u objeto.​ ​El Seguro de Responsabilidad Civil Familiar, fue creado pensando en ti y en tu familia, para protegerte en situaciones cotidianas y ofrecerte un r​espaldo de defensa judicial y gastos médicos de urgencia para situaciones en las que más lo necesites.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/responsabilidad-civil-familiar.png",
                 "incluye": [
                     "Tu mascota se escapa y muerde un niño que está pasando por la casa. ",
                     "Tu hijo está estudiando en el exterior y va a un centro comercial, por accidente tropieza con una estantería y daña los productos. ",
@@ -469,7 +469,7 @@
             {
                 "nombre": "Seguro de responsabilidad civil profesional",
                 "descripcion": "La Responsabilidad Civil Profesional es aquella que surge cuando le causas un daño a un tercero en el ejercicio de tu actividad profesional u oficio. ​Cuando ejerces una profesión eres responsable por los daños que puedan sufrir los terceros como consecuencia de errores u omisiones que cometas en la prestación del servicio, sin importar la profesión que tengas.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-responsabilidad-civil-profesional.png",
                 "incluye": [
                     "Resposabilidad Civil Profesional",
                     "Gastos de defensa por reclamaciones​",
@@ -490,7 +490,7 @@
             {
                 "nombre": "Seguro de Responsabilidad Civil para Profesionales de la Salud",
                 "descripcion": "Cuando ejerces tu profesión estás obligado a preservar los derechos de tus pacientes como la vida, la salud, las buenas condiciones físicas o mentales y la integridad corporal. Cuando vulneras alguno de estos derechos, tu paciente o los afectados pueden reclamar una indemnización. Por esto en Protec Seguros hemos creado el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/responsabilidad-civil-salud.png",
                 "incluye": [
                     "Responsabilidad civil profesional ​",
                     "Errores y omisiones en dictámenes periciales ",
@@ -511,7 +511,7 @@
             {
                 "nombre": "Seguro de Responsabilidad Civil Profesional para Veterinarios",
                 "descripcion": "¡El concepto de familia ha cambiado y ahora las mascotas juegan un papel más importante en nuestras vidas! En Protec Seguros somos conscientes de los riesgos a los que estás expuesto como médico, por eso contamos con el Seguro de Responsabilidad Civil Profesional para Veterinarios, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.​",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-veterinarios.png",
                 "incluye": [
                     "Responsabilidad civil profesional",
                     "Gastos de defensa por reclamaciones civiles"
@@ -530,7 +530,7 @@
             {
                 "nombre": "Seguro colectivo de Vida (Vida Grupo)",
                 "descripcion": "Uno de sus mayores intereses como empresario es desarrollar acciones que le permitan elevar y mantener la calidad de vida de su recurso humano y su grupo familiar. Con el Seguro Colectivo de Vida, se respirará en su empresa un aire social y familiarmente responsable, asimismo, se verá un mejoramiento en el desempeño de sus empleados y en los resultados obtenidos. Este seguro tiene como beneficio para los asegurados un menor costo de la póliza por tratarse de una colectiva y la posibilidad de extenderlo a su grupo familiar, lo que genera en ellos un mayor sentido de pertenencia por la empresa. Tenga en cuenta además, que el respaldo económico que recibirá el empleado y su grupo familiar, minimiza la necesidad de acudir a temas legales con la empresa.  Gracias a que el Seguro de Vida, se convierte en un capital de respaldo inmediato para cubrir eventos inesperados, se disminuyen solicitudes de préstamos y niveles de endeudamiento por parte de sus empleados, contribuyendo a mantener los niveles de productividad y sostenimiento de la empresa. ​",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-colectivo-vida.png",
                 "incluye": [
                     "Contar con un capital de respaldo inmediato para cubrir eventos inesperados",
                     "Tener la posibilidad de extender la protección a su grupo familiar.",
@@ -550,7 +550,7 @@
             {
                 "nombre": "Seguro de exequias",
                 "descripcion": "​El fallecimiento de un ser querido es una situación difícil en la que contar con el mejor apoyo hace la diferencia. En caso de ser tú el que muera, imagínate lo que significa para tus familiares y amigos tener el respaldo que el Seguro de Exequias de Protec Seguros les brinda. Cero preocupaciones por tener que asumir del bolsillo propio grandes sumas de ​dinero en gastos funerarios; nosotros les damos a ellos o a ti, según sea el caso, entre $3 millones y $7 millones para pagar todo con la ventaja de que, si sobra dinero, este se entrega a los beneficiarios. ​Sabemos que la ausencia de alguien a quien se ama nunca puede llenarse, pero tenemos la certeza de que estando ahí incondicionalmente nos aseguramos de celebrar la vida.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/seguro-exequias.png",
                 "incluye": [
                     "Reembolsarles a tus beneficiarios el dinero del valor asegurado que sobra de los gastos exequiales.",
                     "Cobertura ante homicidio, accidente y suicidio desde el día en que compras el seguro.",
@@ -571,7 +571,7 @@
             {
                 "nombre": "Fondo de ahorros",
                 "descripcion": "​Respaldamos tu vida y protegemos tu libertad y autonomía. Asimismo, te damos opciones para que ahorres con nosotros y hagas realidad tus sueños por medio de la consolidación de un patrimonio sólido.",
-                "imagen": "img/vida.jpg",
+                "imagen": "img/fondo-ahorros.png",
                 "incluye": [
                     "Posibilidad de ahorro continuo de bajas cuantías.",
                     "Capitalización diaria.",
