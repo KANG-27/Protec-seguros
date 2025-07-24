@@ -597,7 +597,7 @@
             {
                 "nombre": "Seguro de hogar",
                 "descripcion": "Cuando tienes un seguro de hogar sabes que, pase lo que pase, conservas el patrimonio que has construido con los años o que estás iniciando, así proteges el lugar en el que vives, los electrodomésticos y muebles, tus elementos personales, las prendas de vestir que usas todos los días y hasta los elementos asociados al negocio que tienes en tu vivienda. Si en algún momento ocurre un evento cubierto por el seguro, como un incendio, huracán, derrumbe, entre otros, te reembolsamos el dinero para que sustituyas lo que resulte afectado. También tienes la opción de obtener coberturas adicionales que te respaldan en caso de robo, con o sin violencia, daños a otros y daños o pérdidas de contenidos móviles  que pueden estar por fuera de tu vivienda, por ejemplo computadores portátiles, tabletas o cámaras fotográficas.",
-                "imagen": "img/poliza-salud.jpg",
+                "imagen": "img/seguro-hogar.png",
                 "incluye": [
                     "Aseguramiento valor comercial de tu vivienda.",
                     "Aseguramiento a valor de reconstrucción.",
@@ -631,7 +631,7 @@
             {
                 "nombre": "Seguro de arrendamiento",
                 "descripcion": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para que obtengas un descuento por incluir a tu pareja, padres e hijos. Con este seguro consolidas el capital necesario para no perder tu calidad de vida en caso de sufrir alguna enfermedad grave como cáncer, alzhéimer, párkinson, entre otras​ que son parte de la cobertura, por eso te sientes protegido y tranquilo​. necesito: Sabemos la importancia de cuidar de ti y tu familia, es por ello que, te brindamos las mejores opciones que te permitirán disfrutar de los momentos más especiales de tu vida con tranquilidad.",
-                "imagen": "img/renta-diaria.jpg",
+                "imagen": "img/seguro-arrendamiento.png",
                 "incluye": [
                     "Pago del arriendo en caso de incumplimiento de tu inquilino",
                     "Pago de cuotas de administración",
@@ -649,7 +649,7 @@
             {
                 "nombre": "Plan inversión protegida",
                 "descripcion": "Sabemos que tener vivienda propia es uno de tus sueños y, en Protec Seguros, nos encargamos de cuidar la inversión que hagas para hacerlo realidad. De esa manera no te preocupas por las diferentes eventualidades que pongan en riesgo tu patrimonio y tu esfuerzo. Con el Plan Inversión Protegida garantizas el pago de la cuota inicial de tu vivienda ante el constructor o la entidad financiera si pierdes tu empleo, quedas inválido o falleces. ¡Permítenos acompañarte para que cumplas tu meta de tener vivienda propia, sea para habitar o invertir!",
-                "imagen": "img/renta-diaria.jpg",
+                "imagen": "img/inversion-protegida.png",
                 "incluye": [
                     "Desempleo o pérdida del ingreso por incapacidad",
                     "Incapacidad total y permanente",
