@@ -179,7 +179,7 @@
 
 @media (max-width: 380px) {
     .carousel__slide {
-        min-width: 93%;
+        min-width: 92%;
     }
 }
 

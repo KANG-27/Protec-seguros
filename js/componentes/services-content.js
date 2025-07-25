@@ -25,14 +25,78 @@ class ServicesContent extends HTMLElement {
         console.log(data)
 
         this.innerHTML = `
-            <section class="services-content">
-                <div class="services-content__info">
-                    <h1>${data.nombre}</h1>
-                    <span>${data.descripcion}</span>
+            <section >
+                <div class="services-content">
+                    <div class="services-content__info">
+                        <h1>${data.nombre}</h1>
+                        <span>${data.descripcion}</span>
+                    </div>
+                    <img src="${data.imagen}" alt="${data.nombre}" class="services-content__image">
                 </div>
-                <img src="${data.imagen}" alt="${data.nombre}" class="services-content__image">
+                <div class="services-content__details">
+                    <div class="services-content__details__title">
+                        <h2>¿Que incluye este seguro?</h2>
+                    </div>
+                    <div class="services-content__details__list">
+                        <ul class="services-content__details__list__items__include">
+                        </ul>
+                        <ul class="services-content__details__list__items__none_include">
+                        </ul>
+                    </div>
+                </div>
+                <h3 class="titulo-servicios">Contactanos</h3>
+                <contact-component></contact-component>
             </section>
         `
+        const includeList = this.querySelector('.services-content__details__list__items__include');
+        const noneIncludeList = this.querySelector('.services-content__details__list__items__none_include');
+
+        const MAX_ITEMS = 10;
+
+        renderList(includeList, data.incluye, 'ok');
+        renderList(noneIncludeList, data.no_incluye, 'ko');
+
+        function renderList(listEl, items, iconClass) {
+            const frag = document.createDocumentFragment();
+
+            items.forEach((item, i) => {
+                const li = document.createElement('li');
+                const icon = document.createElement('span');
+                const text = document.createElement('span');
+                icon.className = iconClass;
+                text.textContent = item;
+                li.append(icon, ' ', text);
+
+                if (i >= MAX_ITEMS) li.classList.add('extra', 'hidden');
+                frag.appendChild(li);
+            });
+
+            listEl.appendChild(frag);
+
+            if (items.length > MAX_ITEMS) {
+                const btn = document.createElement('button');
+                btn.className = 'ver-mas';
+                btn.textContent = `Ver más (${items.length - MAX_ITEMS})`;
+                btn.dataset.expanded = 'false';
+
+                btn.addEventListener('click', () => {
+                    const expanded = btn.dataset.expanded === 'true';
+                    listEl.querySelectorAll('.extra').forEach(li => {
+                        li.classList.toggle('hidden', expanded); // si estaba expandido, vuelve a ocultar
+                    });
+                    btn.dataset.expanded = (!expanded).toString();
+                    btn.textContent = expanded
+                        ? `Ver más (${items.length - MAX_ITEMS})`
+                        : 'Ver menos';
+                });
+
+                // coloca el botón justo después de la lista
+                listEl.appendChild(btn);
+            }
+        }
+
+
+
     }
 }
 
