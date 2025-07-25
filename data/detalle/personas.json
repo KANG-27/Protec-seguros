@@ -3,7 +3,7 @@
         "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M440-501Zm0 381L313-234q-72-65-123.5-116t-85-96q-33.5-45-49-87T40-621q0-94 63-156.5T260-840q52 0 99 22t81 62q34-40 81-62t99-22q81 0 136 45.5T831-680h-85q-18-40-53-60t-73-20q-51 0-88 27.5T463-660h-46q-31-45-70.5-72.5T260-760q-57 0-98.5 39.5T120-621q0 33 14 67t50 78.5q36 44.5 98 104T440-228q26-23 61-53t56-50l9 9 19.5 19.5L605-283l9 9q-22 20-56 49.5T498-172l-58 52Zm280-160v-120H600v-80h120v-120h80v120h120v80H800v120h-80Z'/></svg>",
         "items": [
             {
-                "nombre": "Póliza de Salud",
+                "nombre": "Póliza de salud",
                 "descripcion": "Con un Seguro de Salud permaneces tranquilo porque sabes que tienes acceso ilimitado a servicios que no solo complementan tu Plan Obligatorio, sino que además te permiten disfrutar de atenciones exclusivas como consultar directamente a un médico especialista o realizar exámenes de imagenología o radiología, sin necesidad de esperar una autorización por parte del médico general. ¿Y eso cómo te beneficia?, sencillo. tienes cobertura de alta calidad en ayudas diagnósticas de laboratorio, imagenología o radiología,​ prótesis y trasplantes,  además cuentas con tratamientos ambulatorios en caso de que requieras una diálisis o de que seas diagnosticado con enfermedades de alto costo​.",
                 "imagen": "img/poliza-salud.png",
                 "incluye": [
@@ -138,7 +138,7 @@
         "icon": "<svg xmlns='http://www.w3.org/2000/svg' height='24px' viewBox='0 -960 960 960' width='24px' fill='currentColor'><path d='M0-240v-63q0-43 44-70t116-27q13 0 25 .5t23 2.5q-14 21-21 44t-7 48v65H0Zm240 0v-65q0-32 17.5-58.5T307-410q32-20 76.5-30t96.5-10q53 0 97.5 10t76.5 30q32 20 49 46.5t17 58.5v65H240Zm540 0v-65q0-26-6.5-49T754-397q11-2 22.5-2.5t23.5-.5q72 0 116 26.5t44 70.5v63H780Zm-455-80h311q-10-20-55.5-35T480-370q-55 0-100.5 15T325-320ZM160-440q-33 0-56.5-23.5T80-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T160-440Zm640 0q-33 0-56.5-23.5T720-520q0-34 23.5-57t56.5-23q34 0 57 23t23 57q0 33-23 56.5T800-440Zm-320-40q-50 0-85-35t-35-85q0-51 35-85.5t85-34.5q51 0 85.5 34.5T600-600q0 50-34.5 85T480-480Zm0-80q17 0 28.5-11.5T520-600q0-17-11.5-28.5T480-640q-17 0-28.5 11.5T440-600q0 17 11.5 28.5T480-560Zm1 240Zm-1-280Z'/></svg>",
         "items": [
             {
-                "nombre": "Seguro de Vida",
+                "nombre": "Seguro de vida",
                 "descripcion": "Obtener y conservar tu independencia económica ante cualquier imprevisto es importante para ti​, al igual que contar con un ahorro para cumplir tus sueños ​y los de tus seres queridos.​ Por eso, con nuestro seguro de vida Plan vive estás tranquilo porque proteges tus ingresos, puedes contratar un fondo de ahorro para cumplir tus proyectos de corto plazo o complementarlo con el Seguro de Pensión para mantener tu calidad de vida en la etapa de retiro. Así, te aseguras de disfrutar tu vida, alcanzando todas tus metas y compartiendo la vida que deseas con tus seres queridos. Cualquier persona desde los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que más se ajustan a su momento y estilo de vida.",
                 "imagen": "img/seguro-vida.png",
                 "incluye": [
@@ -488,7 +488,7 @@
                 ]
             },
             {
-                "nombre": "Seguro de Responsabilidad Civil para Profesionales de la Salud",
+                "nombre": "Seguro de responsabilidad civil para profesionales de la salud",
                 "descripcion": "Cuando ejerces tu profesión estás obligado a preservar los derechos de tus pacientes como la vida, la salud, las buenas condiciones físicas o mentales y la integridad corporal. Cuando vulneras alguno de estos derechos, tu paciente o los afectados pueden reclamar una indemnización. Por esto en Protec Seguros hemos creado el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.",
                 "imagen": "img/responsabilidad-civil-salud.png",
                 "incluye": [
@@ -509,7 +509,7 @@
                 ]
             },
             {
-                "nombre": "Seguro de Responsabilidad Civil Profesional para Veterinarios",
+                "nombre": "Seguro de responsabilidad civil profesional para peterinarios",
                 "descripcion": "¡El concepto de familia ha cambiado y ahora las mascotas juegan un papel más importante en nuestras vidas! En Protec Seguros somos conscientes de los riesgos a los que estás expuesto como médico, por eso contamos con el Seguro de Responsabilidad Civil Profesional para Veterinarios, con el que buscamos proteger tu patrimonio. Así podrás ejercer tu profesión con tranquilidad.​",
                 "imagen": "img/seguro-veterinarios.png",
                 "incluye": [
@@ -528,7 +528,7 @@
                 ]
             },
             {
-                "nombre": "Seguro colectivo de Vida (Vida Grupo)",
+                "nombre": "Seguro colectivo de vida (Vida Grupo)",
                 "descripcion": "Uno de sus mayores intereses como empresario es desarrollar acciones que le permitan elevar y mantener la calidad de vida de su recurso humano y su grupo familiar. Con el Seguro Colectivo de Vida, se respirará en su empresa un aire social y familiarmente responsable, asimismo, se verá un mejoramiento en el desempeño de sus empleados y en los resultados obtenidos. Este seguro tiene como beneficio para los asegurados un menor costo de la póliza por tratarse de una colectiva y la posibilidad de extenderlo a su grupo familiar, lo que genera en ellos un mayor sentido de pertenencia por la empresa. Tenga en cuenta además, que el respaldo económico que recibirá el empleado y su grupo familiar, minimiza la necesidad de acudir a temas legales con la empresa.  Gracias a que el Seguro de Vida, se convierte en un capital de respaldo inmediato para cubrir eventos inesperados, se disminuyen solicitudes de préstamos y niveles de endeudamiento por parte de sus empleados, contribuyendo a mantener los niveles de productividad y sostenimiento de la empresa. ​",
                 "imagen": "img/seguro-colectivo-vida.png",
                 "incluye": [

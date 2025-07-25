@@ -1,58 +1,58 @@
 {
   "personas": {
     "Protec salud": [
-      "Póliza de Salud",
-      "Póliza de Enfermedades Graves",
-      "Póliza Plan Renta Diaria",
-      "Salud Para Todos"
+      "Póliza de salud",
+      "Póliza de enfermedades graves",
+      "Póliza plan renta diaria",
+      "Salud para todos"
     ],
     "Protec personas": [
-      "Seguro de Vida",
-      "Seguro de Renta Vitalicia",
-      "Seguro de Educación",
-      "Seguro de Pensión",
-      "Seguro de Accidentes",
+      "Seguro de vida",
+      "Seguro de renta vitalicia",
+      "Seguro de educación",
+      "Seguro de pensión",
+      "Seguro de accidentes",
       "Mascotas"
     ],
     "Protec movilidad": [
-      "Plan Utilitarios y Pesados",
-      "Seguro de Autos",
-      "Seguro de Motos",
-      "Seguro de Bicis y Patinetas",
-      "Seguro de Viaje",
-      "Plan Muévete Libre",
-      "RC Familiar",
-      "RC Profesional",
-      "RC Profesionales de la Salud",
-      "RC Profesionales Veterinarios",
-      "Seguro Colectivo de Vida",
-      "Seguro de Exequias",
-      "Fondo de Ahorros"
+      "Plan utilitarios y pesados",
+      "Seguro de autos",
+      "Seguro de motos",
+      "Seguro de bicis y patinetas",
+      "Seguro de viaje",
+      "Plan muévete libre",
+      "RC familiar",
+      "RC profesional",
+      "RC profesionales de la salud",
+      "RC profesionales veterinarios",
+      "Seguro colectivo de vida (Vida Grupo)",
+      "Seguro de exequias",
+      "Fondo de ahorros"
     ],
     "Protec patrimonio": [
-      "Seguro de Hogar",
-      "Seguro de Arrendamiento",
-      "Plan Inversión Protegida"
+      "Seguro de hogar",
+      "Seguro de arrendamiento",
+      "Plan inversión protegida"
     ]
   },
   "empresas": {
     "Protec Talento humano": [
       "Asegura tu talento",
-      "Salud Colectiva",
-      "Hogar Colectiva",
-      "Vida Grupo",
-      "Autos Colectivo",
-      "Fraude de Empleados",
+      "Salud colectiva",
+      "Hogar colectiva",
+      "Vida grupo",
+      "Autos colectivo",
+      "Fraude de empleados",
       "Pensión",
       "Previsional de invalidez y sobrevivencia",
       "Renta"
     ],
     "Protec Modelo Operativo": [
-      "Responsabilidad Civil",
+      "Responsabilidad civil",
       "Transporte",
       "Bienes y patrimonio",
       "Ingenieria",
-      "Cumplimiento Operativo"
+      "Cumplimiento operativo"
     ],
     "Protec Legal": [
       "Cumplimiento",

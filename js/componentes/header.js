@@ -119,14 +119,19 @@ class HeaderComponent extends HTMLElement {
 
     // Render planes con animación
     const renderPlanes = arr => {
+      console.log(arr)
       planesContainer.innerHTML = '';
       const ul = document.createElement('ul');
       ul.className = 'seguros__planes-list seguros__planes-fade';
-      ul.innerHTML = arr.map(p => `<li><a href="#">${p}</a></li>`).join('');
+      ul.innerHTML = arr.map(p => `<li><a href="servicios.html?type=${sessionStorage.getItem('homeTipo')}&id=${capitalizeFirstLetter(document.querySelector(".services-carrousel__button.active, .seguros__categorias-button.active").querySelector(".text").innerText.split(" ")[1])}/${p.trim().replace(/\s+/g, '')}">${p}</a></li>`).join('');
       planesContainer.appendChild(ul);
       void ul.offsetWidth;
       ul.classList.add('show');
     };
+
+    function capitalizeFirstLetter(str) {
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
 
     // Texto intro
     const renderIntro = () => {
