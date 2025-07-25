@@ -62,7 +62,7 @@ class ServicesContent extends HTMLElement {
             items.forEach((item, i) => {
                 const li = document.createElement('li');
                 const icon = document.createElement('span');
-                const text = document.createElement('span');
+                const text = document.createElement('p');
                 icon.className = iconClass;
                 text.textContent = item;
                 li.append(icon, ' ', text);

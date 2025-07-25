@@ -45,23 +45,14 @@
 
 .services-content__details__list__items__include {
     width: 40%;
+    gap: 0.5rem;
 }
-.services-content__details__list__items__none_include{
+
+.services-content__details__list__items__none_include {
     width: 40%;
-
+    gap: 0.5rem;
 }
 
-.ok::before {
-    content: "✔";
-    color: #008EFF;
-    margin-right: .4rem;
-}
-
-.ko::before {
-    content: "✖";
-    color: #008EFF;
-    margin-right: .4rem;
-}
 
 ul {
     display: flex;
@@ -69,13 +60,35 @@ ul {
     padding: 0%;
 }
 
-li {
-    list-style: none;
-}
-
 .hidden {
     display: none;
 }
+
+li {
+    display: flex;
+    list-style: none;
+    align-items: flex-start;
+    /* por si el texto ocupa varias líneas */
+    gap: .4rem;
+}
+
+li p {
+    margin: 0%;
+}
+
+.ok::before {
+    content: "✓";
+    color: #008EFF;
+
+}
+
+.ko::before {
+    content: "✖";
+    color: #008EFF;
+
+}
+
+
 
 .ver-mas {
     margin-top: 1.5rem;
