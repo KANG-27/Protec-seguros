@@ -11,7 +11,7 @@
     background-color: #F4FAFF;
     height: 284px;
     width: max-content;
-    padding: 0px 90px;
+    padding: 0px 5%;
     gap: 30px;
 
 }
@@ -59,4 +59,51 @@
 .redes-sociales:hover {
     cursor: pointer;
 
+}
+
+@media (max-width: 768px) {
+    .contact {
+        /* flex-direction: column; */
+        align-items: center;
+        margin: 3% 0;
+        padding: 2%;
+        padding-right: 4%;
+        height: 100%;
+        gap: 15px;
+    }
+
+    .contact__content__info {
+        gap: 35px;
+    }
+
+    .asesor {
+        width: 300px;
+        right: 0;
+        top: 0;
+    }
+}
+
+@media (max-width: 720px) {
+    .contact {
+        flex-direction: column;
+        gap: 0;
+        padding: 2%;
+    }
+}
+
+@media (max-width: 320px) {
+    .asesor {
+        width: 240px;
+
+    }
+    .contact__content__info{
+        flex-direction: column;
+        gap: 0;
+    }
+    .contact__content{
+        width: 90%;
+    }
+    .contact__content__redes{
+        text-align: center;
+    }
 }
